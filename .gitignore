@@ -1,0 +1,7 @@
+node_modules
+autopre
+gulpfile.js
+package-lock.json
+package.json
+.DS_Store
+.editorconfig

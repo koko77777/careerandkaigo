@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+/* style.css */
+@import url(reset.css);
+@import url(global.css);
+
+/* detail */
+@import url(custom.css);
+
+/* ===== print ===== */
+.print {
+	display: none !important;
+}
+@media print {
+/* print detail start */
+html {
+	overflow-y: auto;
+}
+body {
+	_zoom: 0.8;
+}
+.print {
+	display: block !important;
+}
+.clearfix {
+	*overflow: auto;
+	*zoom: 1;
+}
+.clearfix {
+	overflow: hidden\9;
+}
+.clearfix:not(:target) {
+	overflow: hidden\9;
+}
+/* print detail end */
+}

@@ -1,0 +1,95 @@
+/* =============================================================================
+armg_lpheader style
+========================================================================== */
+@media screen and (max-width: 640px) {
+  .armg_lpheader .inner {
+    width: auto;
+    margin: 0 auto;
+  }
+  .armg_lpheader .armg_lpheader_hgroup {
+    position: relative;
+    height: 60px;
+    background-color: #f5f6f9;
+  }
+  .armg_lpheader .armg_lpheader_logo {
+    display: table;
+    width: 100%;
+    width: calc(100% - 70px);
+    height: 60px;
+    font-weight: bold;
+  }
+  .armg_lpheader .armg_lpheader_logo_detail {
+    display: table-cell;
+    padding: 0 0 0 15px;
+    text-align: left;
+    vertical-align: middle;
+  }
+  .armg_lpheader .armg_lpheader_logo_detail img {
+    width: 50%;
+  }
+  .armg_lpheader .armg_lpheader_nav {
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 60px;
+    width: 100%;
+    background-color: #f5f6f9;
+    border-top: 1px solid #d6d8e0;
+  }
+  .armg_lpheader .armg_lpheader_item {
+    border-bottom: 1px solid #d6d8e0;
+    text-align: center;
+  }
+  .armg_lpheader .armg_lpheader_item:first-child {
+    display: none;
+  }
+  .armg_lpheader .armg_lpheader_item a {
+    display: block;
+    padding: 15px 15px;
+    color: #404040;
+    font-weight: bold;
+    line-height: 1;
+  }
+  .armg_lpheader .armg_lpheader_item .tel {
+    padding: 10px 15px;
+  }
+  .armg_lpheader .armg_lpheader_item .tel a {
+    display: block;
+    padding: 0;
+    font-size: 2.1rem;
+    line-height: 1.2;
+  }
+  .armg_lpheader .armg_lpheader_item .tel p {
+    font-size: 1.2rem;
+    font-weight: bold;
+    line-height: 1.2;
+  }
+  .armg_lpheader .armg_lpheader_logo span {
+    color: #064f9f;
+  }
+}
+
+/* =============================================================================
+fv
+========================================================================== */
+/* =============================================================================
+cta
+========================================================================== */
+/* =============================================================================
+toughness
+========================================================================== */
+/* =============================================================================
+change
+========================================================================== */
+/* =============================================================================
+work
+========================================================================== */
+/* =============================================================================
+voice
+========================================================================== */
+/* =============================================================================
+counselor
+========================================================================== */
+/* =============================================================================
+faq
+========================================================================== */

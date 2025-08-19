@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+/* style.css */
+@import url(reset.css);
+@import url(global_sp.css);
+
+/* detail */
+@import url(custom_sp.css);
+
+/* for Android browser */
+#wrap {
+	max-height: 100%;
+}

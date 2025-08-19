@@ -1,0 +1,76 @@
+/* reset.css */
+/* style reset */
+html, body,
+div, span,
+h1, h2, h3, h4, h5, h6, p,
+dl, dt, dd, ul[class], ol[class], li,
+img, strong, em, small, sub, sup, b, i, iframe,
+table, thead, tbody, tfoot, caption, tr, th, td,
+form, fieldset, label, legend, input, textarea, select,
+pre, blockquote, abbr, cite, code, del, dfn, ins, kbd, q, samp, var,
+article, section, aside, header, footer, nav, menu, main, hgroup, summary, address,
+figure, figcaption,
+object, canvas, details, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0px;
+	font: inherit;
+}
+
+input, button, textarea, select {
+	font: inherit;
+	font-family: inherit;
+}
+
+fieldset {
+	border: 0;
+}
+
+img {
+	border: 0;
+	vertical-align: bottom;
+}
+
+ul[class],
+ol[class] {
+	list-style: none;
+}
+ul[class] li,
+ol[class] li {
+	list-style: none;
+}
+
+/* html5tag reset */
+article, section, aside, header, footer, nav, menu, main, hgroup, summary, address,
+figure, figcaption,
+object, canvas, details, time, mark, audio, video {
+	display: block;
+}
+
+html, body,
+div, span, a,
+h1, h2, h3, h4, h5, h6, p,
+dl, dt, dd, ul, ol, li,
+img, strong, em, small, sub, sup, b, i, iframe,
+table, thead, tbody, tfoot, caption, tr, th, td,
+form, fieldset, label, legend, input, textarea, select,
+pre, blockquote, abbr, cite, code, del, dfn, ins, kbd, q, samp, var,
+article, section, aside, header, footer, nav, menu, main, hgroup, summary, address,
+figure, figcaption,
+object, canvas, details, time, mark, audio, video {
+	-webkit-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+:after, :before {
+	-webkit-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+/*# sourceMappingURL=reset.css.map */

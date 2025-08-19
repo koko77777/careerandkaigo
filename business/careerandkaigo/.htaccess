@@ -1,0 +1,5 @@
+# AddTypeを使う場合
+AddType application/x-httpd-php .php .html
+
+# AddHandlerを使う場合
+AddHandler application/x-httpd-php .php .html
