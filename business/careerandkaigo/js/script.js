@@ -132,8 +132,17 @@ function slider01() {
         thumbs: {
             swiper: sliderTab1,
         },
+        navigation: {
+            nextEl: ".swiper-button-next01",
+            prevEl: ".swiper-button-prev01",
+        },
     });
 }
+$(window).on("load resize", function () {
+    $(".scroll__wrap--num01 .simplebar-content-wrapper").scroll(function (e) {
+        $(".scroll__wrap .scroll__icon").fadeOut();
+    });
+});
 
 $(function () {
     // smoothScroll();
