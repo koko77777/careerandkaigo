@@ -496,7 +496,7 @@
 								<li class="sol__item01 swiper-slide">
 									<div class="sol__top">
 										<div class="sol__icon01"><img src="img/sol_icon01.png" alt=""></div>
-										<p class="sol__lead">課題<span class="num babes">01</span>：人事の課題</p>
+										<p class="sol__lead bold white">課題<span class="num babes">01</span>：人事の課題</p>
 										<ul class="sol__list02">
 											<li class="sol__item02 white bold">これから取り組む仕事と介護の両立支援、どうせやるなら意味のある支援にしたい</li>
 											<li class="sol__item02 white bold">介護の状況は1人1人異なるため、全員に同じ支援でよいのだろうか？</li>
@@ -514,7 +514,7 @@
 								<li class="sol__item01 swiper-slide">
 									<div class="sol__top">
 										<div class="sol__icon01"><img src="img/sol_icon02.png" alt=""></div>
-										<p class="sol__lead">課題<span class="num babes">02</span>：上司の課題</p>
+										<p class="sol__lead bold white">課題<span class="num babes">02</span>：上司の課題</p>
 										<ul class="sol__list02">
 											<li class="sol__item02 white bold">相談されても…正直、どう答えたらいいか分からない</li>
 											<li class="sol__item02 white bold">介護が始まったら、どれくらい休むんだろう…<br>業務、回せるかな</li>
@@ -531,7 +531,7 @@
 								<li class="sol__item01 swiper-slide">
 									<div class="sol__top">
 										<div class="sol__icon01"><img src="img/sol_icon03.png" alt=""></div>
-										<p class="sol__lead">課題<span class="num babes">03</span>：従業員の課題</p>
+										<p class="sol__lead bold white">課題<span class="num babes">03</span>：従業員の課題</p>
 										<ul class="sol__list02">
 											<li class="sol__item02 white bold">身内のことを上司に話すのって、やっぱり気を遣う…。</li>
 											<li class="sol__item02 white bold">いざ介護が始まっても、職場に言い出しにくいし、制度もよく分からない。今まで通り働けるのかも正直不安。</li>
@@ -557,6 +557,18 @@
 			<!-- sol -->
 
 
+			<section class="cta cta--bg">
+				<div class="cta__inner inner">
+                    <div class="cta__box">
+                        <h2 class="cta__ttl01 bold ta-c">従業員の状況に合わせた<br class="sp-only"><strong class="big">仕事と介護の両立支援</strong>を提供する</h2>
+                        <div class="cta__img01"><img src="img/cta_img01.png" alt="Career & Kaigo"></div>
+                        <a class="cta__btn01 white bold" href="#">お問い合わせはこちら</a>
+                    </div>
+				</div>
+			</section>
+			<!-- cta -->
+
+
 			<section class="oth oth--bg">
 				<div class="oth__inner inner">
                     <h2 class="oth__ttl01 bold ta-c">そのほか、<span class="medium">休業者をサポートするサービスも充実</span></h2>
@@ -569,8 +581,8 @@
 								</picture>
 							</div>
 							<div class="oth__box">
-								<p class="oth__lead">妊娠期から職場復帰後まで一貫したサポート</p>
-								<h3 class="oth__ttl02 bold green">Career & Baby（キャリア＆ベビー）</h3>
+								<p class="oth__lead bold ta-c">妊娠期から職場復帰後まで一貫したサポート</p>
+								<h3 class="oth__ttl02 ta-c bold green">Career & Baby（キャリア＆ベビー）</h3>
 								<p class="oth__txt01">仕事と育児を両立する社員のセルフケア支援や<br class="pc-only">コミュニケーション機能などで、<br class="pc-only">組織の両立体制を強化します。</p>
 								<a class="oth__btn01" href="#">詳しくはこちら</a>
 							</div>
@@ -583,8 +595,8 @@
 								</picture>
 							</div>
 							<div class="oth__box">
-								<p class="oth__lead">休業中の従業員と会社を繋ぐクラウドサービス</p>
-								<h3 class="oth__ttl02 bold green">ADVANTAGE HARMONY<br>（アドバンテッジハーモニー）</h3>
+								<p class="oth__lead bold ta-c">休業中の従業員と会社を繋ぐクラウドサービス</p>
+								<h3 class="oth__ttl02 ta-c bold green">ADVANTAGE HARMONY<br>（アドバンテッジハーモニー）</h3>
 								<p class="oth__txt01">休業している従業員を一括管理するクラウドサービス。管理手法や休業者とのコミュニケーションを統一することで、管理から円滑な職場復帰まで安心の支援体制を構築します。</p>
 								<a class="oth__btn01" href="#">詳しくはこちら</a>
 							</div>
@@ -597,8 +609,8 @@
 								</picture>
 							</div>
 							<div class="oth__box">
-								<p class="oth__lead">心身の状態を「見える化」オンライン復職支援</p>
-								<h3 class="oth__ttl02 bold green">復職支援プログラム eRework<br>（イーリワーク）</h3>
+								<p class="oth__lead bold ta-c">心身の状態を「見える化」オンライン復職支援</p>
+								<h3 class="oth__ttl02 ta-c bold green">復職支援プログラム eRework<br>（イーリワーク）</h3>
 								<p class="oth__txt01">「認知行動理論」をベースとした研修動画と再発防止のためのワークやGPSを活用した移動訓練等で多角的に現在の状態をスコア化します。</p>
 								<a class="oth__btn01" href="#">詳しくはこちら</a>
 							</div>

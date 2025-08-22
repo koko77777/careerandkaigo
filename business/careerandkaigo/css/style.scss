@@ -472,6 +472,8 @@ mv
 @media screen and (min-width: 641px) {
     .mv {
         &--bg01 {
+            padding: 60px 0 40px;
+            background: #f0e9d9;
         }
         .mv {
             &__left {
@@ -952,40 +954,227 @@ sol
 @media screen and (min-width: 641px) {
     .sol {
         &--bg {
+            padding: 200px 0 100px;
+            background: url(../img/flo_bg01.png) top center/ 2000px no-repeat;
         }
         .sol {
             &__ttl01 {
+                font-size: 44px;
             }
             &__slider {
+                margin-top: 50px;
             }
             &__list01 {
+                margin-top: 30px;
             }
             &__item01 {
+                position: relative;
+                border-radius: 40px;
+                background-color: #fff;
             }
             &__top {
+                position: relative;
+                padding: 27px 40px 30px 200px;
+                border-radius: 40px 40px 0 0;
+                background-color: #766e62;
+                &::before,
+                &::after {
+                    content: "";
+                    display: block;
+                    position: absolute;
+                }
+                &::before {
+                    bottom: -18px;
+                    left: 50%;
+                    transform: translateX(-50%);
+                    width: 52px;
+                    height: 52px;
+                    background: url(../img/sol_triangle01.png) top center/
+                        contain no-repeat;
+                }
+                &::after {
+                    top: 24px;
+                    right: 48px;
+                    width: 51px;
+                    height: 38px;
+                    background: url(../img/sol_icon04.png) top center/ contain
+                        no-repeat;
+                }
             }
             &__icon01 {
+                position: absolute;
+                width: 150px;
+                top: 30px;
+                left: 30px;
             }
             &__lead {
+                display: inline-block;
+                padding: 12px 41px 10px;
+                border-radius: 23px;
+                background-color: #453112;
+                font-size: 22px;
+                line-height: 1;
+                letter-spacing: 0.06em;
+                .num {
+                    display: inline-block;
+                    margin-left: 3px;
+                    font-size: 32px;
+                    line-height: 0;
+                    transform: translateY(2px);
+                }
             }
             &__list02 {
+                margin-top: 20px;
             }
             &__item02 {
+                position: relative;
+                margin-top: 10px;
+                padding-left: 28px;
+                font-size: 22px;
+                line-height: 1.59;
+                letter-spacing: 0.06em;
+                &::after {
+                    content: "";
+                    display: block;
+                    position: absolute;
+                    top: 10px;
+                    left: 0;
+                    width: 12px;
+                    height: 12px;
+                    border-radius: 50%;
+                    background-color: #fff;
+                }
             }
             &__low {
+                padding: 30px 40px 40px;
             }
             &__lead02 {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 339px;
+                height: 38px;
+                border-radius: 19px;
+                background-color: #66a500;
+                font-size: 22px;
+                line-height: 1;
+                letter-spacing: 0.07em;
+                &::before {
+                    content: "";
+                    display: block;
+                    width: 24px;
+                    height: 24px;
+                    margin-right: 10px;
+                    background: url(../img/fea_circle01.png) top center/ contain
+                        no-repeat;
+                }
             }
             &__ttl02 {
+                margin-top: 20px;
+                font-size: 25px;
+                line-height: 1.75;
             }
             &__txt01 {
+                margin-top: 20px;
+                font-size: 16px;
+                font-weight: 500;
+                line-height: 1.81;
+                letter-spacing: 0.04em;
                 .big {
+                    display: block;
+                    font-size: 18px;
                 }
                 .link {
                 }
             }
             &__nav {
             }
+        }
+        .swiper-container-tab {
+            overflow: visible;
+            position: relative;
+            z-index: 2;
+        }
+        .swiper-container-tab .swiper-wrapper {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            transform: translate(0) !important;
+        }
+        .swiper-container-tab .swiper-slide {
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 310px !important;
+            height: 80px;
+            border-radius: 40px;
+            font-size: 30px;
+            letter-spacing: 0.08em;
+            font-weight: bold;
+            background-color: #b8b8b8;
+            color: #fff;
+            .num {
+                display: inline-block;
+                margin-left: 7px;
+                transform: translateY(2px);
+                font-size: 42px;
+                line-height: 1;
+            }
+            &::after {
+                content: "";
+                display: block;
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                right: 30px;
+                width: 34px;
+                height: 34px;
+                background: url(../img/sol_arrow02.png) top center/ contain
+                    no-repeat;
+            }
+            &.swiper-slide-thumb-active {
+                background-color: #453112;
+                &::after {
+                    background: url(../img/sol_arrow03.png) top center/ contain
+                        no-repeat;
+                }
+            }
+        }
+        .swiper-container {
+            position: relative;
+            overflow: hidden;
+        }
+        .swiper-button-prev:after,
+        .swiper-container-rtl .swiper-button-next:after {
+            content: "prev";
+            display: none;
+        }
+
+        .swiper-button-next:after,
+        .swiper-container-rtl .swiper-button-prev:after {
+            content: "next";
+            display: none;
+        }
+        .swiper-button-prev,
+        .swiper-button-next {
+            top: 500px;
+            width: 50px;
+            height: 50px;
+        }
+        .swiper-button-prev {
+            left: -70px;
+            background: url(../img/sol_arrow01.png) top center/ contain
+                no-repeat;
+            transform: rotate(180deg);
+        }
+
+        .swiper-button-next {
+            right: -70px;
+            background: url(../img/sol_arrow01.png) top center/ contain
+                no-repeat;
         }
     }
 }
@@ -999,26 +1188,86 @@ oth
         }
         .oth {
             &__ttl01 {
+                font-size: 40px;
+                letter-spacing: 0.06em;
                 .medium {
                 }
             }
             &__list {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-between;
+                width: 860px;
+                margin: 0 auto;
             }
             &__item {
+                width: 400px;
+                margin-top: 75px;
                 &--num01 {
+                    display: flex;
+                    justify-content: space-between;
+                    width: 100%;
+                    .oth__lead,
+                    .oth__ttl02 {
+                        text-align: left;
+                    }
+                    .oth__txt01 {
+                        min-height: inherit;
+                    }
+                    .oth__btn01 {
+                        margin-left: 0;
+                    }
                 }
             }
             &__img01 {
+                width: 400px;
             }
             &__box {
+                width: 400px;
+                padding-top: 20px;
             }
             &__lead {
+                font-size: 18px;
             }
             &__ttl02 {
+                white-space: nowrap;
+                margin-top: 15px;
+                font-size: 23px;
+                line-height: 1.3;
+                letter-spacing: 0.02em;
             }
             &__txt01 {
+                min-height: 115px;
+                margin-top: 15px;
+                font-size: 16px;
+                font-weight: 500;
+                line-height: 1.69;
             }
             &__btn01 {
+                position: relative;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 250px;
+                height: 40px;
+                margin: 20px auto 0;
+                border-radius: 20px;
+                background-color: #66a500;
+                font-size: 20px;
+                letter-spacing: 0.08em;
+                color: #fff;
+                &::after {
+                    content: "";
+                    display: block;
+                    position: absolute;
+                    top: 50%;
+                    right: 10px;
+                    transform: translateY(-50%);
+                    width: 24px;
+                    height: 24px;
+                    background: url(../img/oth_arrow01.png) top center/ contain
+                        no-repeat;
+                }
             }
             &__item {
             }

@@ -558,6 +558,13 @@ p {
 /* =============================================================================
 mv
 ========================================================================== */
+@media screen and (min-width: 641px) {
+  .mv--bg01 {
+    padding: 60px 0 40px;
+    background: #f0e9d9;
+  }
+}
+
 /* =============================================================================
 had
 ========================================================================== */
@@ -756,9 +763,301 @@ pre
 /* =============================================================================
 sol
 ========================================================================== */
+@media screen and (min-width: 641px) {
+  .sol--bg {
+    padding: 200px 0 100px;
+    background: url(../img/flo_bg01.png) top center/2000px no-repeat;
+  }
+  .sol .sol__ttl01 {
+    font-size: 44px;
+  }
+  .sol .sol__slider {
+    margin-top: 50px;
+  }
+  .sol .sol__list01 {
+    margin-top: 30px;
+  }
+  .sol .sol__item01 {
+    position: relative;
+    border-radius: 40px;
+    background-color: #fff;
+  }
+  .sol .sol__top {
+    position: relative;
+    padding: 27px 40px 30px 200px;
+    border-radius: 40px 40px 0 0;
+    background-color: #766e62;
+  }
+  .sol .sol__top::before, .sol .sol__top::after {
+    content: "";
+    display: block;
+    position: absolute;
+  }
+  .sol .sol__top::before {
+    bottom: -18px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 52px;
+    height: 52px;
+    background: url(../img/sol_triangle01.png) top center/contain no-repeat;
+  }
+  .sol .sol__top::after {
+    top: 24px;
+    right: 48px;
+    width: 51px;
+    height: 38px;
+    background: url(../img/sol_icon04.png) top center/contain no-repeat;
+  }
+  .sol .sol__icon01 {
+    position: absolute;
+    width: 150px;
+    top: 30px;
+    left: 30px;
+  }
+  .sol .sol__lead {
+    display: inline-block;
+    padding: 12px 41px 10px;
+    border-radius: 23px;
+    background-color: #453112;
+    font-size: 22px;
+    line-height: 1;
+    letter-spacing: 0.06em;
+  }
+  .sol .sol__lead .num {
+    display: inline-block;
+    margin-left: 3px;
+    font-size: 32px;
+    line-height: 0;
+    transform: translateY(2px);
+  }
+  .sol .sol__list02 {
+    margin-top: 20px;
+  }
+  .sol .sol__item02 {
+    position: relative;
+    margin-top: 10px;
+    padding-left: 28px;
+    font-size: 22px;
+    line-height: 1.59;
+    letter-spacing: 0.06em;
+  }
+  .sol .sol__item02::after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 10px;
+    left: 0;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #fff;
+  }
+  .sol .sol__low {
+    padding: 30px 40px 40px;
+  }
+  .sol .sol__lead02 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 339px;
+    height: 38px;
+    border-radius: 19px;
+    background-color: #66a500;
+    font-size: 22px;
+    line-height: 1;
+    letter-spacing: 0.07em;
+  }
+  .sol .sol__lead02::before {
+    content: "";
+    display: block;
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+    background: url(../img/fea_circle01.png) top center/contain no-repeat;
+  }
+  .sol .sol__ttl02 {
+    margin-top: 20px;
+    font-size: 25px;
+    line-height: 1.75;
+  }
+  .sol .sol__txt01 {
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.81;
+    letter-spacing: 0.04em;
+  }
+  .sol .sol__txt01 .big {
+    display: block;
+    font-size: 18px;
+  }
+  .sol .swiper-container-tab {
+    overflow: visible;
+    position: relative;
+    z-index: 2;
+  }
+  .sol .swiper-container-tab .swiper-wrapper {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    transform: translate(0) !important;
+  }
+  .sol .swiper-container-tab .swiper-slide {
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 310px !important;
+    height: 80px;
+    border-radius: 40px;
+    font-size: 30px;
+    letter-spacing: 0.08em;
+    font-weight: bold;
+    background-color: #b8b8b8;
+    color: #fff;
+  }
+  .sol .swiper-container-tab .swiper-slide .num {
+    display: inline-block;
+    margin-left: 7px;
+    transform: translateY(2px);
+    font-size: 42px;
+    line-height: 1;
+  }
+  .sol .swiper-container-tab .swiper-slide::after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 30px;
+    width: 34px;
+    height: 34px;
+    background: url(../img/sol_arrow02.png) top center/contain no-repeat;
+  }
+  .sol .swiper-container-tab .swiper-slide.swiper-slide-thumb-active {
+    background-color: #453112;
+  }
+  .sol .swiper-container-tab .swiper-slide.swiper-slide-thumb-active::after {
+    background: url(../img/sol_arrow03.png) top center/contain no-repeat;
+  }
+  .sol .swiper-container {
+    position: relative;
+    overflow: hidden;
+  }
+  .sol .swiper-button-prev:after,
+  .sol .swiper-container-rtl .swiper-button-next:after {
+    content: "prev";
+    display: none;
+  }
+  .sol .swiper-button-next:after,
+  .sol .swiper-container-rtl .swiper-button-prev:after {
+    content: "next";
+    display: none;
+  }
+  .sol .swiper-button-prev,
+  .sol .swiper-button-next {
+    top: 500px;
+    width: 50px;
+    height: 50px;
+  }
+  .sol .swiper-button-prev {
+    left: -70px;
+    background: url(../img/sol_arrow01.png) top center/contain no-repeat;
+    transform: rotate(180deg);
+  }
+  .sol .swiper-button-next {
+    right: -70px;
+    background: url(../img/sol_arrow01.png) top center/contain no-repeat;
+  }
+}
+
 /* =============================================================================
 oth
 ========================================================================== */
+@media screen and (min-width: 641px) {
+  .oth .oth__ttl01 {
+    font-size: 40px;
+    letter-spacing: 0.06em;
+  }
+  .oth .oth__list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 860px;
+    margin: 0 auto;
+  }
+  .oth .oth__item {
+    width: 400px;
+    margin-top: 75px;
+  }
+  .oth .oth__item--num01 {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  .oth .oth__item--num01 .oth__lead,
+  .oth .oth__item--num01 .oth__ttl02 {
+    text-align: left;
+  }
+  .oth .oth__item--num01 .oth__txt01 {
+    min-height: inherit;
+  }
+  .oth .oth__item--num01 .oth__btn01 {
+    margin-left: 0;
+  }
+  .oth .oth__img01 {
+    width: 400px;
+  }
+  .oth .oth__box {
+    width: 400px;
+    padding-top: 20px;
+  }
+  .oth .oth__lead {
+    font-size: 18px;
+  }
+  .oth .oth__ttl02 {
+    white-space: nowrap;
+    margin-top: 15px;
+    font-size: 23px;
+    line-height: 1.3;
+    letter-spacing: 0.02em;
+  }
+  .oth .oth__txt01 {
+    min-height: 115px;
+    margin-top: 15px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.69;
+  }
+  .oth .oth__btn01 {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    height: 40px;
+    margin: 20px auto 0;
+    border-radius: 20px;
+    background-color: #66a500;
+    font-size: 20px;
+    letter-spacing: 0.08em;
+    color: #fff;
+  }
+  .oth .oth__btn01::after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+    width: 24px;
+    height: 24px;
+    background: url(../img/oth_arrow01.png) top center/contain no-repeat;
+  }
+}
+
 /* =============================================================================
 flo
 ========================================================================== */
