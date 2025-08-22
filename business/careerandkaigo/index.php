@@ -3,7 +3,7 @@
 <head>
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/assets/include/docs.php'); ?>
 <!-- コンテンツのmetaを挿入/ -->
-<title>アドバンテッジ スマートケア</title>
+<title>Career & Kaigo</title>
 <meta name="description" content="">
 <meta name="keywords" content="">
 <meta name="format-detection" content="telephone=no">
@@ -124,385 +124,543 @@
 		<article>
 			<!-- ここからコンテンツのHTMLを挿入/ -->
 			
+            
             <section class="mv mv--bg01 cta">
                 <div class="mv__inner inner">
-                    <div class="mv__box">
-                        <h1 class="mv__ttl01 green02 bold">
-                            <strong class="big">健康管理</strong>を、<br><strong class="big">もっとスマート</strong>に。
-                            <span class="small">アドバンテッジ スマートケア</span>
+                    <div class="mv__left">
+                        <p class="mv__lead white ta-c"><strong class="big">法制度以上の両立支援</strong>をお考えの<span class="bold">人事ご担当者様</span>へ</p>
+                        <h1 class="mv__ttl01 bold">
+                            <span class="txt">仕事と介護の両立を<br>ひとりひとりに合わせて支援</span>
+                            <span class="img"><img src="img/mv_logo.png" alt="Career & Kaigo"></span>
                         </h1>
-                        <div class="mv__img01">
+                        <div class="mv__box">
+                            <p class="mv__top bold ta-c"><strong class="big">悩めるすべての方</strong>に適切なサポートを。</p>
+                            <div class="mv__low">
+                                <div class="mv__img02">
+                                    <picture>
+                                        <source media="(max-width: 768px)" srcset="img/mv_img02_sp.png">
+                                        <img src="img/mv_img02.png" alt="">
+                                    </picture>
+                                </div>
+                                <ul class="mv__list">
+                                    <li class="mv__item bold">お悩みの見える化</li>
+                                    <li class="mv__item bold">悩みに寄り添う研修動画</li>
+                                    <li class="mv__item bold">状況に合わせたフォロー</li>
+                                </ul>
+                            </div>
+                            <a class="mv__btn01" href="#">お問い合わせはこちら</a>
+                            <p class="mv__note">Career & Kaigoと東京海上日動ベターライフサービスと共催セミナーを開催いたしました。<br>登壇資料を入手したいかたは<a class="link blue bold" href="#">こちらをクリック</a>してお申し込みください。</p>
+                        </div>
+                    </div>
+                    <div class="mv__right">
+                        <div class="mv__img01 pc-only"><img src="img/mv_img01.png" alt="Career & Kaigoのイメージ"></div>
+                        <div class="mv__img03">
                             <picture>
-                                <source media="(max-width: 768px)" srcset="img/mv_img01_sp.webp">
-                                <img src="img/mv_img01.webp" alt="アドバンテッジ スマートケアのイメージ">
+                                <source media="(max-width: 768px)" srcset="img/mv_img03_sp.png">
+                                <img src="img/mv_img03.png" alt="東京海上日動ベターライフサービスと共同開発 健康経営銘柄の約45%ホワイト500の3割に当社サービスを提供 計483万人の従業員様を支援してきたアドバンテッジリスクマネジメントが提供">
                             </picture>
                         </div>
-                        <p class="mv__lead01 ta-c bold">
-                            <span class="circle white">業界<br>最安級</span>
-                            <span class="txt">月額<strong class="big green02 babes">50</strong>円/人〜の健康管理システム</span>
-                        </p>
-                        <p class="mv__lead02 ta-c bold"><span class="txt">計<span class="gold"><strong class="big babes">483</strong>万人</span><span class="alert">※</span>の従業員様を支援してきた<br>アドバンテッジリスクマネジメントが提供</span></p>
-
                     </div>
-                </div>
-                <div class="mv--bg02">
-                    <div class="mv__inner inner">
-                        <h2 class="mv__ttl03 white ta-c bold">
-                            料金・機能が<span class="yellow"><strong class="num babes">1</strong>分</span>でわかる！<br>
-                            <strong class="big">料金表付き資料を<span class="yellow">無料</span>でご提供中</strong>
-                        </h2>
-                        <div class="cta__low">
-                            <a class="cta__btn01 cta__btn01--num01 green bold" href="#">まずはご相談から</a>
-                            <a class="cta__btn01 cta__btn01--num02 green bold" href="#">資料ダウンロードはこちら</a>
-                        </div>
-                    </div>
+                    <ul class="mv__list02">
+                        <li class="mv__item02">※1  「健康経営優良法人2025」認定法人における当社のサービス提供実績より</li>
+                        <li class="mv__item02">※2  2024年3月末におけるメンタリティマネジメント事業・健康経営事業および休業者・復職者支援サービスの利用者数</li>
+                    </ul>
                 </div>
             </section>
 			<!-- mv -->
+
+
+			<section class="had had--bg">
+				<div class="had__inner inner">
+                    <h2 class="had__ttl01 bold ta-c">
+						改正法・ガイドライン・健康経営度調査票<span class="small">など</span><br>
+						<strong class="big white">企業による介護の両立支援の充実</strong>が<br class="sp-only">求められています
+					</h2>
+					<ul class="had__list">
+						<li class="had__item">
+							<div class="had__img01"><img src="img/had_img01.png" alt=""></div>
+							<p class="had__txt01">改正・育児介護休業法による<br>仕事と介護の両立支援の強化</p>
+						</li>
+						<li class="had__item">
+							<p class="had__comment white ta-c">法定以上の<br>運用が<br>求められる</p>
+							<div class="had__img01"><img src="img/had_img02.png" alt=""></div>
+							<p class="had__txt01">健康経営度調査票でも<br>介護に関する評価項目あり</p>
+						</li>
+						<li class="had__item">
+							<div class="had__img01"><img src="img/had_img03.png" alt=""></div>
+							<p class="had__txt01">経産省による<br>経営者向けガイドラインの公表</p>
+						</li>
+					</ul>
+					<h3 class="had__ttl02 ta-c bold"><span class="green">個々に異なる介護事情を<br class="sp-only">どこまで支援すべきか</span>など<br>人事担当者は難しい判断を迫られています。</h3>
+					<div class="had__img01">
+						<picture>
+							<source media="(max-width: 768px)" srcset="img/had_img04_sp.png">
+							<img src="img/had_img04.png" alt="そもそも相談されても、社内には介護に詳しい人がいないので分からない 仕事をしながら介護することを前提としたサポートを探している 介護相談はどれも状況がバラバラで適切なフォローが難しい">
+						</picture>
+					</div>
+				</div>
+			</section>
+			<!-- had -->
+
+
+			<section class="inf inf--bg cta">
+				<div class="inf__inner inner">
+                    <h2 class="inf__ttl01 bold ta-c">
+						終わりの見えない<br class="sp-only">介護のストレス・不安は、企業に<br>
+						<strong class="bg">重要人材の流出や生産性への悪影響</strong><br class="sp-only">を及ぼします
+					</h2>
+					<div class="inf__img01">
+						<picture>
+							<source media="(max-width: 768px)" srcset="img/inf_img01_sp.png">
+							<img src="img/inf_img01.png" alt="男女別の主な介護者の年齢分布">
+						</picture>
+					</div>
+					<div class="cta__box">
+                        <h2 class="cta__ttl01 bold ta-c">従業員の状況に合わせた<br class="sp-only"><strong class="big">仕事と介護の両立支援</strong>を提供する</h2>
+                        <div class="cta__img01"><img src="img/cta_img01.png" alt="Career & Kaigo"></div>
+                        <a class="cta__btn01 white bold" href="#">お問い合わせはこちら</a>
+                    </div>
+				</div>
+			</section>
+			<!-- inf -->
+
+
+			<section class="imp imp--bg">
+				<div class="imp__inner inner">
+                    <h2 class="imp__ttl01 bold ta-c">
+						<span class="lead"><strong class="big">重要</strong>なのは</span>
+						<span class="txt"><span class="green">仕事をしながら介護をすることを前提</span>とし、<br class="pc-only"><span class="green">ひとりひとりに合った支援をおこなう</span>こと</span>
+					</h2>
+					<div class="imp__img01">
+						<picture>
+							<source media="(max-width: 768px)" srcset="img/imp_img01_sp.png">
+							<img src="img/imp_img01.png" alt="課題の発見 適切な支援の実施">
+						</picture>
+					</div>
+					<div class="imp__box">
+                        <div class="inner">
+                            <h3 class="imp__ttl02 bold ta-c"><span class="small">仕事をしながら介護をすることを前提とした、</span><br>1to1の情報提供ツール</h3>
+                            <div class="imp__low">
+                                <h4 class="imp__ttl03 bold ta-c">
+                                    アドバンテッジリスクマネジメント<span class="small">で</span><br class="sp-only"><span class="medium">あらゆる課題を解決！</span>
+                                </h4>
+                                <div class="scroll__wrap" data-simplebar data-simplebar-auto-hide="false">
+                                    <div class="scroll__icon sp-only">
+                                        <img src="img/ach_img04.webp" alt="スクロールできます">
+                                        <div class="scroll__icon02"><img  src="img/ach_img05.webp" alt="アイコン"></div>
+                                    </div>
+                                    <div class="imp__img02">
+                                        <picture>
+                                            <source media="(max-width: 768px)" srcset="img/imp_img03_sp.png">
+                                            <img src="img/imp_img03.png" alt="アドバンテッジリスクマネジメントであらゆる課題を解決！">
+                                        </picture>
+                                    </div>
+                                </div>
+                                <a class="imp__btn01" href="#"><span class="txt white bold">人事領域の課題を解決するサービスはこちら</span></a>
+                                <div class="imp__img03"><img src="img/cta_img01.png" alt="Career & Kaigo"></div>
+                            </div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- imp -->
+
+
+			<section class="cta cta--bg">
+				<div class="cta__inner inner">
+                    <div class="cta__box">
+                        <h2 class="cta__ttl01 bold ta-c">従業員の状況に合わせた<br class="sp-only"><strong class="big">仕事と介護の両立支援</strong>を提供する</h2>
+                        <div class="cta__img01"><img src="img/cta_img01.png" alt="Career & Kaigo"></div>
+                        <a class="cta__btn01 white bold" href="#">お問い合わせはこちら</a>
+                    </div>
+				</div>
+			</section>
+			<!-- cta -->
 			
 
-            <section class="tro tro--bg">
-                <div class="tro__inner inner">
-                    <h2 class="tro__ttl01 ta-c bold">健康管理業務に、<br class="sp-only">こんな課題はありませんか？</h2>
-                    <ul class="tro__list">
-                        <li class="tro__item">
-                            <h3 class="tro__ttl02 bold green02 ta-c">紙・エクセルの管理から<br class="sp-only">脱却したい</h3>
-                            <ul class="tro__list02">
-                                <li class="tro__item02">とにかく非効率で<strong class="line">手間がかかりすぎる</strong></li>
-                                <li class="tro__item02"><strong class="line">紛失リスク、検索の手間</strong></li>
-                                <li class="tro__item02">有所見者の<strong class="line">追跡管理が煩雑</strong></li>
-                                <li class="tro__item02">労基署提出書類の<strong class="line">作成に時間がかかる</strong></li>
-                                <li class="tro__item02">保健師や産業医との<strong class="line">やり取りが非効率</strong></li>
-                            </ul>
-                            <div class="tro__img01 tro__img01--num01"><img src="img/tro_img01.webp" alt=""></div>
-                        </li>
-                        <li class="tro__item">
-                            <h3 class="tro__ttl02 bold green02 ta-c">既存システムに<br class="sp-only">限界を感じている</h3>
-                            <ul class="tro__list02">
-                                <li class="tro__item02">操作が難しく、<br class="sp-only"><strong class="line">現場が活用できていない</strong></li>
-                                <li class="tro__item02">サポートの<strong class="line">レスポンスが遅くて</strong><br class="sp-only">困っている</li>
-                                <li class="tro__item02">他システムとの連携ができず、<br class="sp-only"><strong class="line">健診結果の<br class="pc-only">取り込みに手間がかかる</strong></li>
-                                <li class="tro__item02">期待していた<strong class="line">工数削減に至らず</strong>、<br class="sp-only">コストに見合った価値が感じられない</li>
-                            </ul>
-                            <div class="tro__img01 tro__img01--num02"><img src="img/tro_img02.webp" alt=""></div>
-                        </li>
-                    </ul>
-                </div>
-            </section>
-			<!-- tro -->
-			
-			
-            <section class="fea fea--bg">
-                <div class="fea__inner inner">
-                    <div class="fea__ank" id="link02"></div>
-                    <p class="fea__lead ta-c bold">かんたん、やさしい健康管理システムで<span class="big"><strong class="dot">業</strong><strong class="dot">務</strong><strong class="dot">効</strong><strong class="dot">率</strong><strong class="dot">ア</strong><strong class="dot">ッ</strong><strong class="dot">プ</strong>!</span></p>
-                    <h2 class="fea__ttl01 bold ta-c">アドバンテッジ スマートケアが、<br>企業の健康管理システムに<br class="sp-only"><strong class="big green02">選ばれる理由</strong></h2>
-                    <ul class="fea__list">
-                        <li class="fea__item">
-                            <div class="fea__icon01"><img src="img/fea_img01.webp" alt=""></div>
-                            <p class="fea__txt01 green02"><strong class="big">月額50円〜</strong>の<br>圧倒的コストパフォーマンス</p>
-                        </li>
-                        <li class="fea__item">
-                            <div class="fea__icon01"><img src="img/fea_img02.webp" alt=""></div>
-                            <p class="fea__txt01 green02">シンプルで分かりやすい操作画面</p>
-                        </li>
-                        <li class="fea__item">
-                            <div class="fea__icon01"><img src="img/fea_img03.webp" alt=""></div>
-                            <p class="fea__txt01 green02">二次検査の受診率向上に繋がる<br>受診勧奨機能</p>
-                        </li>
-                        <li class="fea__item">
-                            <div class="fea__icon01"><img src="img/fea_img04.webp" alt=""></div>
-                            <p class="fea__txt01 green02">迅速かつ手厚いサポートで<br>導入後も安心</p>
-                        </li>
-                        <li class="fea__item">
-                            <div class="fea__icon01"><img src="img/fea_img05.webp" alt=""></div>
-                            <p class="fea__txt01 green02">健診結果データや面談記録、<br>意見書などの一元管理</p>
-                        </li>
-                        <li class="fea__item">
-                            <div class="fea__icon01"><img src="img/fea_img06.webp" alt=""></div>
-                            <p class="fea__txt01 green02">様々な健診結果データの<br>フォーマットに対応</p>
-                        </li>
-                    </ul>
-                    <p class="fea__more">さらに</p>
-                    <div class="fea__item fea__item--num02">
-                        <div class="fea__icon01"><img src="img/fea_img07.webp" alt=""></div>
-                        <p class="fea__txt01 green02">健康管理システムを起点とした、<br>各種ソリューションの<br class="sp-only">総合提案も可能</p>
-                    </div>
-                </div>
-            </section>
+			<section class="fea fea--bg">
+				<div class="fea__inner inner">
+					<p class="fea__lead01"><strong class="big">人事・従業員・上司</strong>の<br class="sp-only"><span class="num quick green">3</span>方向の安心を実現</p>
+                    <h2 class="fea__ttl01 bold ta-c">心理的安心感を高め、<br><strong class="big green">相談しやすい<br class="sp-only">組織風土への変化</strong>を支援</h2>
+					<ol class="fea__list">
+						<li class="fea__item">
+							<div class="fea__top">
+								<div class="fea__info">
+									<p class="fea__num01 white bold ta-c">特長<span class="num babes">01</span></p>
+									<p class="fea__en01 quick blue">Identifying and addressing issues</p>
+									<h3 class="fea__ttl02 bold blue">課題発見と対処</h3>
+									<h4 class="fea__ttl03 bold">介護者の介護や<br class="sp-only">仕事への不安や課題を解消。<br><span class="blue">心身の状態をしっかり可視化し、<br>最適な打ち手をご提案。</span></h4>
+								</div>
+								<div class="fea__img01"><img src="img/fea_img01.png" alt="課題発見と対処のイメージ"></div>
+							</div>
+							<p class="fea__comment01 white bold ta-c">こころの健康状態とワークライフバランスを可視化し、適切な対処を実現。</p>
+							<div class="fea__box">
+								<p class="fea__ttl04 bold ta-c">介護の負担感の可視化から<br class="sp-only">両立計画の立案までの流れ</p>
+								<div class="fea__img02">
+									<picture>
+										<source media="(max-width: 768px)" srcset="img/fea_img04_sp.png">
+										<img src="img/fea_img04.png" alt="介護の負担感の可視化から両立計画の立案までの流れ">
+									</picture>
+								</div>
+							</div>
+							<p class="fea__ttl04 bold">3つのセルフチェックが、<br class="sp-only">休業前～両立期の従業員の<br class="sp-only">心身の状態を見える化。</p>
+							<div class="fea__box">
+								<div class="fea__flex">
+									<div class="fea__flex__img"><img src="img/fea_img05.png" alt="3つのセルフチェック"></div>
+									<p class="fea__flex__txt">3つのセルフチェックの結果からくる上司向けの<br class="pc-only">コメントによって、<br class="sp-only">従業員への具体的で本質的な声掛けができ、<br class="pc-only">本人の不安を軽減させることに役立ちます。</p>
+								</div>
+								<p class="fea__txt01">
+									<strong class="big bold">介護の負担感アンケート<span class="small">（独自開発）</span>とは</strong>
+									介護が始まるタイミングで、直面する介護の負担を測定します。​<br>介護の負担を把握することで、今後の仕事との両立計画に役立てることができます。</p>
+								<div class="fea__img03">
+									<picture>
+										<source media="(max-width: 768px)" srcset="img/fea_img06_sp.png">
+										<img src="img/fea_img06.png" alt="介護の負担感アンケートの例">
+									</picture>
+								</div>
+								<p class="fea__txt01"><strong class="big bold">SWING-J、WHO-5とは</strong></p>
+								<ul class="fea__list03">
+									<li class="fea__item03">
+										<div class="fea__box02">
+											<p class="fea__txt02 ta-c bold">ワークライフバランスに関する設問<span class="small">（SWING-J）</span></p>
+											<div class="fea__img04"><img src="img/fea_img07.png" alt=""></div>
+											<p class="fea__txt03">家庭・仕事のそれぞれの影響とその課題を可視化し、課題に即した研修動画を提供。</p>
+										</div>
+										<p class="fea__note01">（出典）<br>Shimada, K., Shimazu, A., Geurts, S. A. E., & Kawakami, N. (2018). Reliability and validity of the Japanese version of the Survey Work–Home Interaction – NijmeGen, the SWING (SWING-J) Community, Work & Family, <br>DOI: 10.1080/13668803.2018.1471588</p>
+									</li>
+									<li class="fea__item03">
+										<div class="fea__box02">
+											<p class="fea__txt02 ta-c bold">こころの健康状態<span class="small">（WHO=5）</span></p>
+											<div class="fea__img04"><img src="img/fea_img07.png" alt=""></div>
+											<p class="fea__txt03">こころの健康状態を可視化し、一定の基準を下回った場合、カウンセリングを促すメールが届く。</p>
+										</div>
+										<p class="fea__note01">（出典）<br>Bech P. Clinical Psychometrics. Oxford, Wiley-Blackwell 2012. Topp CW, Østergaard SD, Søndergaard S, Bech P.  The WHO-5 Well-being Index: A systematic review of the Literature. Psychotherapy & Psychosomatics  2015;84(3):167-76.</p>
+									</li>
+								</ul>
+							</div>
+						</li>
+						<li class="fea__item">
+							<div class="fea__top">
+								<div class="fea__info">
+									<p class="fea__num01 white bold ta-c">特長<span class="num babes">01</span></p>
+									<p class="fea__en01 quick blue">Know-how video</p>
+									<h3 class="fea__ttl02 bold blue">ノウハウ研修動画</h3>
+									<h4 class="fea__ttl03 bold">介護者本人が抱える<span class="blue">内面的な<br class="sp-only">不安や課題を<br class="pc-only">解決するノウハウ<br class="sp-only">や、上司のマネジメント<br class="pc-only">スキルを向上させるノウハウ</span>を提供。</h4>
+								</div>
+								<div class="fea__img01"><img src="img/fea_img02.png" alt="ノウハウ研修動画のイメージ"></div>
+							</div>
+							<p class="fea__ttl04 bold">セルフチェック結果から見える化された、介護者本人が抱えるさまざまな課題を、<br class="pc-only">解決支援するノウハウ研修動画をレコメンド。<br>スキマ時間に、いつでも動画で研修を受けられる。</p>
+							<p class="fea__comment01 white bold ta-c">介護者本人・上司に向けた研修動画</p>
+							<ul class="fea__list04">
+								<li class="fea__item04">
+									<div class="fea__top02">
+										<div class="fea__icon01"><img src="img/fea_icon01.png" alt=""></div>
+										<p class="fea__ttl05 bold">仕事と介護を両立したい<br>従業員向け</p>
+									</div>
+									<div class="fea__low">
+										<div class="fea__icon02"><img src="img/fea_icon03.png" alt=""></div>
+										<ul class="fea__list05">
+											<li class="fea__item05">仕事と介護の両立に向けて<br>知っておきたいこと</li>
+											<li class="fea__item05">事前に確認しておきたい親の介護費用​</li>
+											<li class="fea__item05">介護サービスの利用を拒まれた時の対応​</li>
+											<li class="fea__item05">リモートワークを活用した介護の注意点​</li>
+										</ul>
+									</div>
+								</li>
+								<li class="fea__item04">
+									<div class="fea__top02">
+										<div class="fea__icon01"><img src="img/fea_icon02.png" alt=""></div>
+										<p class="fea__ttl05 fea__ttl05--num02 bold">上司向け</p>
+									</div>
+									<div class="fea__low">
+										<div class="fea__icon02 fea__icon02--num02"><img src="img/fea_icon04.png" alt=""></div>
+										<ul class="fea__list05">
+											<li class="fea__item05 fea__item05--num02">仕事と介護の両立のための制度</li>
+											<li class="fea__item05 fea__item05--num02">部下のやる気を引き出すマネジメント</li>
+											<li class="fea__item05 fea__item05--num02">両立期の部下のケア​</li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</li>
+						<li class="fea__item">
+							<div class="fea__top">
+								<div class="fea__info">
+									<p class="fea__num01 white bold ta-c">特長<span class="num babes">01</span></p>
+									<p class="fea__en01 quick blue">Follow-up according to the situation</p>
+									<h3 class="fea__ttl02 bold blue">状況に合わせたフォロー</h3>
+									<h4 class="fea__ttl03 bold">介護者の抱えるさまざまな不安や<br class="sp-only">悩みを<br class="pc-only"><span class="blue">適切にフォローする体制を<br class="sp-only">形成し、<br class="pc-only">介護者の孤立を防止。</span></h4>
+								</div>
+								<div class="fea__img01"><img src="img/fea_img03.png" alt="状況に合わせたフォローのイメージ"></div>
+							</div>
+							<p class="fea__ttl04 bold">関連機能</p>
+							<ul class="fea__list06">
+								<li class="fea__item06">
+									<div class="fea__left">
+										<div class="fea__icon03"><img src="img/fea_icon05.png" alt=""></div>
+									</div>
+									<div class="fea__right">
+										<p class="fea__ttl06 bold">相談窓口</p>
+										<p class="fea__dot">即時電話カウンセリング</p>
+										<p class="fea__dot">（東京海上日動ベターライフサービス社の）Web介護相談</p>
+									</div>
+								</li>
+								<li class="fea__item06">
+									<div class="fea__left">
+										<div class="fea__icon03"><img src="img/fea_icon06.png" alt=""></div>
+									</div>
+									<div class="fea__right">
+										<p class="fea__ttl06 bold">介護者本人の<br>状況に合わせた研修動画の配信</p>
+									</div>
+								</li>
+								<li class="fea__item06">
+									<div class="fea__left">
+										<div class="fea__icon03"><img src="img/fea_icon07.png" alt=""></div>
+									</div>
+									<div class="fea__right">
+										<p class="fea__ttl06 bold">部下の両立状況に応じた、<br>対応ノウハウ</p>
+									</div>
+								</li>
+								<li class="fea__item06">
+									<div class="fea__left">
+										<div class="fea__icon03"><img src="img/fea_icon08.png" alt=""></div>
+									</div>
+									<div class="fea__right">
+										<p class="fea__ttl06 bold">会社と休業者をつなぐチャット機能</p>
+									</div>
+								</li>
+							</ul>
+						</li>
+					</ol>
+				</div>
+			</section>
 			<!-- fea -->
-			
-			
-            <section class="rea rea--bg" id="link03">
-                <div class="rea__inner inner">
-                    <h2 class="rea__ttl01 bold ta-c">
-                        アドバンテッジ スマートケアが、<br>
-                        <span class="medium">健康管理を<br class="sp-only">もっとスマート</span>にできる
-                        <span class="big"><strong class="num babes white">3</strong>つの<strong class="big02">理由</strong></span>
-                    </h2>
-                    <ol class="rea__list">
-                        <li class="rea__item">
-                            <div class="rea__top">
-                                <p class="rea__num white babes ta-c">REASON<strong class="num">01</strong></p>
-                                <h3 class="rea__ttl02 bold"><strong class="big green02">業界最安級！<br>月額<span class="num babes">50</span>円／人〜</strong>の<br class="sp-only">圧倒的な低価格</h3>
-                            </div>
-                            <div class="rea__low">
-                                <p class="rea__txt01">「機能は十分、コストは最小限」。<br>アドバンテッジ スマートケアは、低コストですぐに導入できる健診管理システムです。<br>「健康情報の一元管理」「ハイリスク者のピックアップ」「ダッシュボード機能」など、現場が求める機能を厳選。中小企業から数千人規模の企業まで、組織規模やご予算に合わせて柔軟にプランを選べるのも支持される理由のひとつです。</p>
-                                <div class="rea__img01">
-                                    <picture>
-                                        <source media="(max-width: 768px)" srcset="img/rea_img01_sp.webp">
-                                        <img src="img/rea_img01.webp" alt="一般的な健康管理システムとアドバンテッジ スマートケアの比較">
-                                    </picture>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="rea__item">
-                            <div class="rea__top">
-                                <p class="rea__num white babes ta-c">REASON<strong class="num">02</strong></p>
-                                <h3 class="rea__ttl02 bold">煩雑な健康管理業務を、<br><strong class="big green02">アドバンテッジスマートケアで<br>大幅に効率化します。</strong></h3>
-                            </div>
-                            <div class="rea__low">
-                                <p class="rea__txt01">健診結果データを簡単な操作で取り込みが可能。取り込み時に判定情報が統一化されているため、ハイリスク者のピックアップや受診勧奨が容易にできます。<br>面談記録や意見書、二次健診受診後の管理までシステム上で完結。健康情報の一元管理を実現します。</p>
-                                <div class="rea__box">
-                                    <p class="rea__voice white bold ta-c">導入企業様の声</p>
-                                    <h4 class="rea__ttl03 green02 bold">スマートケアへの切り替えで、<br class="sp-only">様々な健康管理の業務工数削減に！</h4>
-                                    <p class="rea__txt02">これまで利用していた他社システムでは健診結果がシステムへ反映されるまで１か月以上を要していたが、アドバンテッジヘルスケアでは数クリックで取り込みできるため、反映までの時間が大幅に短縮。健康管理システム上で対象者の抽出から二次健診の案内送付、受診確認までを一貫して実施可能なため、対応の迅速化を実現。また、二次健診の未受診者に対するリストアップや督促案内の機能も備えており、受診率の向上につながった。</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="rea__item rea__item--ank" id="link04"></li>
-                        <li class="rea__item rea__item--num02">
-                            <div class="rea__top">
-                                <p class="rea__num white babes ta-c">REASON<strong class="num">03</strong></p>
-                                <h3 class="rea__ttl02 bold">かんたん、やさしい<br class="sp-only">健康管理システム<br><strong class="big green02">シンプルな画面構成、直観的な<br class="sp-only">操作性で<br class="pc-only">誰でも迷わず使えます。</strong></h3>
-                            </div>
-                            <div class="rea__low">
-                                <p class="rea__txt01">アドバンテッジスマートケは、最小限のボタンでかんたんに覚えられますのでパソコン操作が苦手な方でもすぐ使えて安心。これまで時間がかかった作業もかんたんに効率化できます。</p>
-                                <div class="rea__slider">
-                                    <div class="swiper-container swiper-container-tab swiper-container-tab01">
-                                        <div class="swiper-wrapper swiper-wrapper01">
-                                            <div class="swiper-slide">健診データ管理</div>
-                                            <div class="swiper-slide">有所見者管理</div>
-                                            <div class="swiper-slide">面談・意見書管理</div>
-                                            <div class="swiper-slide">ダッシュボード</div>
-                                            <div class="swiper-slide">就業判定</div>
-                                            <div class="swiper-slide">二次検査受診勧奨</div>
-                                            <div class="swiper-slide">個人カルテ</div>
-                                        </div>
-                                    </div>
-                                    <div class="swiper-container swiper-container01 rea__wrap">
-                                        <ul class="rea__list02 swiper-wrapper swiper-wrapper01">
-                                            <li class="rea__item02 swiper-slide">
-                                                <div class="rea__slide01">
-                                                    <picture>
-                                                        <source media="(max-width: 768px)" srcset="img/rea_slide01_sp.webp">
-                                                        <img src="img/rea_slide01.webp" alt="健診データ管理">
-                                                    </picture>
-                                                </div>
-                                            </li>
-                                            <li class="rea__item02 swiper-slide">
-                                                <div class="rea__slide01">
-                                                    <picture>
-                                                        <source media="(max-width: 768px)" srcset="img/rea_slide01_sp.webp">
-                                                        <img src="img/rea_slide01.webp" alt="有所見者管理">
-                                                    </picture>
-                                                </div>
-                                            </li>
-                                            <li class="rea__item02 swiper-slide">
-                                                <div class="rea__slide01">
-                                                    <picture>
-                                                        <source media="(max-width: 768px)" srcset="img/rea_slide01_sp.webp">
-                                                        <img src="img/rea_slide01.webp" alt="面談・意見書管理">
-                                                    </picture>
-                                                </div>
-                                            </li>
-                                            <li class="rea__item02 swiper-slide">
-                                                <div class="rea__slide01">
-                                                    <picture>
-                                                        <source media="(max-width: 768px)" srcset="img/rea_slide01_sp.webp">
-                                                        <img src="img/rea_slide01.webp" alt="ダッシュボード">
-                                                    </picture>
-                                                </div>
-                                            </li>
-                                            <li class="rea__item02 swiper-slide">
-                                                <div class="rea__slide01">
-                                                    <picture>
-                                                        <source media="(max-width: 768px)" srcset="img/rea_slide01_sp.webp">
-                                                        <img src="img/rea_slide01.webp" alt="就業判定">
-                                                    </picture>
-                                                </div>
-                                            </li>
-                                            <li class="rea__item02 swiper-slide">
-                                                <div class="rea__slide01">
-                                                    <picture>
-                                                        <source media="(max-width: 768px)" srcset="img/rea_slide01_sp.webp">
-                                                        <img src="img/rea_slide01.webp" alt="二次検査受診勧奨">
-                                                    </picture>
-                                                </div>
-                                            </li>
-                                            <li class="rea__item02 swiper-slide">
-                                                <div class="rea__slide01">
-                                                    <picture>
-                                                        <source media="(max-width: 768px)" srcset="img/rea_slide01_sp.webp">
-                                                        <img src="img/rea_slide01.webp" alt="個人カルテ">
-                                                    </picture>
-                                                </div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                    </ol>
-                    <h3 class="rea__ttl04 bold ta-c">誰でもすぐに<br class="sp-only">使いやすいとのお声を<br>多くいただいています</h3>
-                    <ul class="rea__list03">
-                        <li class="rea__item03 white bold ta-c">説明会不要で現場が<br><span class="yellow">すぐに使いこなせた</span></li>
-                        <li class="rea__item03 white bold ta-c">画面構成がシンプルで<br><span class="yellow">操作に迷わない</span></li>
-                    </ul>
-                </div>
-            </section>
-			<!-- rea -->
-			
-			
-            <section class="com com--bg">
-                <div class="com__inner inner">
-                    <h2 class="com__ttl01 bold ta-c"><strong class="big">比べてわかる！</strong><br>アドバンテッジスマートケア</h2>
-                    <div class="com__img01">
-                        <picture>
-                            <source media="(max-width: 768px)" srcset="img/com_img01_sp.webp">
-                            <img src="img/com_img01.webp" alt="アドバンテッジスマートケアと他社の比較">
-                        </picture>
-                    </div>
-                </div>
-            </section>
-			<!-- com -->
-			
-			
-            <section class="sol cta mv">
-                <div class="sol--bg01">
-                    <div class="sol__inner inner">
-                        <h2 class="sol__ttl01 bold ta-c">
-                            <span class="top">かんたん、やさしい健康管理システム</span>
-                            <span class="txt">アドバンテッジスマートケアで</span>
-                            <strong class="big">健康管理業務の課題を<br class="sp-only">解決します</strong>
-                        </h2>
-                        <ul class="sol__list">
-                            <li class="sol__item">
-                                <div class="sol__top">
-                                    <h3 class="sol__ttl02 white ta-c bold">
-                                        <span class="txt">月額<span class="num babes">50</span>円/人〜の</span>
-                                        <strong class="big yellow">圧倒的な<br class="sp-only">低価格</strong>
-                                    </h3>
-                                </div>
-                                <div class="sol__low">
-                                    <div class="sol__img01 sol__img01--num01"><img src="img/sol_img01.webp" alt=""></div>
-                                </div>
-                            </li>
-                            <li class="sol__item">
-                                <div class="sol__top">
-                                    <h3 class="sol__ttl02 white ta-c bold">
-                                        <span class="txt">煩雑な<br class="sp-only">健康管理業務を</span>
-                                        <strong class="big yellow">大幅に効率化</strong>
-                                    </h3>
-                                </div>
-                                <div class="sol__low">
-                                    <div class="sol__img01 sol__img01--num02"><img src="img/sol_img02.webp" alt=""></div>
-                                </div>
-                            </li>
-                            <li class="sol__item">
-                                <div class="sol__top">
-                                    <h3 class="sol__ttl02 white ta-c bold">
-                                        <span class="txt">シンプルで直感的</span>
-                                        <strong class="big yellow">誰でも迷わず<br class="sp-only">使える</strong>
-                                    </h3>
-                                </div>
-                                <div class="sol__low">
-                                    <div class="sol__img01 sol__img01--num03"><img src="img/sol_img03.webp" alt=""></div>
-                                </div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="sol--bg02">
-                    <div class="sol__inner inner">
-                        <h2 class="mv__ttl03 sol__ttl03 white ta-c bold">
-                            <span class="txt">料金・機能が<span class="yellow"><strong class="num babes">1</strong>分</span>でわかる！</span>
-                            <strong class="big">料金表付き資料を<span class="yellow">無料</span>でご提供中</strong>
-                        </h2>
-                        <div class="cta__low">
-                            <a class="cta__btn01 cta__btn01--num01 green bold" href="#">まずはご相談から</a>
-                            <a class="cta__btn01 cta__btn01--num02 green bold" href="#">資料ダウンロードはこちら</a>
-                        </div>
-                    </div>
-                </div>
-            </section>
+
+
+			<section class="pre pre--bg">
+				<div class="pre__inner inner">
+                    <h2 class="pre__ttl01 bold ta-c">「メンタル」「介護」について<br><strong class="big green">専門家に相談できる窓口</strong>もご用意</h2>
+					<div class="pre__img01">
+						<picture>
+							<source media="(max-width: 768px)" srcset="img/pre_img01_sp.png">
+							<img src="img/pre_img01.png" alt="不安要素のイメージ">
+						</picture>
+					</div>
+					<div class="pre__box">
+						<p class="pre__txt01 white bold ta-c">専門家<br class="pc-only"><span class="small">による</span>相談窓口</p>
+						<h3 class="pre__ttl02 bold ta-c">介護中の<strong class="big">こころの不安</strong>、<br class="sp-only">仕事と介護の<strong class="big">両立の悩み</strong>など<br><span class="medium">従業員の個別事情に寄り添います。</span></h3>
+						<ul class="pre__list">
+							<li class="pre__item">
+								<p class="pre__comment01 white bold ta-c">標準<br>搭載</p>
+								<p class="pre__ttl03 white bold ta-c">メンタルケアの専門家</p>
+								<div class="pre__low">
+									<div class="pre__logo01"><img src="img/pre_img01.png" alt="アドバンテッジリスクマネジメント"></div>
+								</div>
+								<p class="pre__txt01 bold ta-c">メンタルの情報提供・相談窓口</p>
+							</li>
+							<li class="pre__item">
+								<p class="pre__comment01 white bold ta-c">別途<br>契約</p>
+								<p class="pre__ttl03 white bold ta-c">介護の専門家</p>
+								<div class="pre__low">
+									<div class="pre__logo02"><img src="img/pre_img02.png" alt="東京海上日動ベターライフサービス"></div>
+								</div>
+								<p class="pre__txt01 bold ta-c">WEB介護相談/介護コミュニティ運営支援<br>産業ケアマネジャー個別相談</p>
+							</li>
+						</ul>
+					</div>
+					<div class="pre__box02">
+						<p class="pre__comment02 white quick">Pick Up</p>
+						
+						<div class="pre__logo03"><img src="img/pre_img03.png" alt="Career & Kaigo 東京海上日動ベターライフサービス"></div>
+						<p class="pre__txt02 bold ta-c">Career & Kaigoと<br class="sp-only">東京海上日動ベターライフサービスと<br class="sp-only">共催セミナーを開催いたしました。<br>登壇資料を入手したいかたは<br class="sp-only"><a class="link bold blue" href="#">こちらをクリック</a>してお申し込みください。</p>
+						<div class="pre__img02"><img src="img/pre_img04.png" alt=""></div>
+					</div>
+				</div>
+			</section>
+			<!-- pre -->
+
+
+			<section class="sol sol--bg">
+				<div class="sol__inner inner">
+                    <h2 class="sol__ttl01 bold ta-c">こんな課題を解決します</h2>
+					<div class="sol__slider">
+						<div class="swiper-container swiper-container-tab swiper-container-tab01">
+							<div class="swiper-wrapper swiper-wrapper01">
+								<div class="swiper-slide">課題<span class="num babes">01</span></div>
+								<div class="swiper-slide">課題<span class="num babes">02</span></div>
+								<div class="swiper-slide">課題<span class="num babes">03</span></div>
+							</div>
+						</div>
+						<div class="swiper-container swiper-container01 sol__wrap">
+							<ul class="sol__list01 swiper-wrapper swiper-wrapper01">
+								<li class="sol__item01 swiper-slide">
+									<div class="sol__top">
+										<div class="sol__icon01"><img src="img/sol_icon01.png" alt=""></div>
+										<p class="sol__lead">課題<span class="num babes">01</span>：人事の課題</p>
+										<ul class="sol__list02">
+											<li class="sol__item02 white bold">これから取り組む仕事と介護の両立支援、どうせやるなら意味のある支援にしたい</li>
+											<li class="sol__item02 white bold">介護の状況は1人1人異なるため、全員に同じ支援でよいのだろうか？</li>
+										</ul>
+									</div>
+									<div class="sol__low">
+										<p class="sol__lead02 white bold">Career&Kaigoで解決！</p>
+										<h3 class="sol__ttl02 bold">本質的な介護支援を従業員に！<br>「Career & Kaigo」で<br class="sp-only">個人の状況にあったサポートを。</h3>
+										<p class="sol__txt01">
+											<strong class="big">“いざ”という時に、社員も人事もひとりにしない。</strong>
+											介護の負担に気づけるセルフチェック、丁寧な制度説明、専門家に相談できる窓口、心のケアを支える研修動画。<br>「Career & Kaigo」は、社員の不安と人事の負担をぐっと軽くする、“安心の仕組み”をまるごと整えるサービスです。
+										</p>
+									</div>
+								</li>
+								<li class="sol__item01 swiper-slide">
+									<div class="sol__top">
+										<div class="sol__icon01"><img src="img/sol_icon02.png" alt=""></div>
+										<p class="sol__lead">課題<span class="num babes">02</span>：上司の課題</p>
+										<ul class="sol__list02">
+											<li class="sol__item02 white bold">相談されても…正直、どう答えたらいいか分からない</li>
+											<li class="sol__item02 white bold">介護が始まったら、どれくらい休むんだろう…<br>業務、回せるかな</li>
+										</ul>
+									</div>
+									<div class="sol__low">
+										<p class="sol__lead02 white bold">Career&Kaigoで解決！</p>
+										<h3 class="sol__ttl02 bold">介護支援、はじめの一歩も、次の一歩も。<br>「Career & Kaigo」で、両立支援がスムーズに始められます。</h3>
+										<p class="sol__txt01">
+                                            上司に介護の経験がなくても大丈夫。研修動画で、部下の両立を支援するために必要な知識や関わり方を事前に学べます。さらに、介護負担のアンケート結果やセルフチェック（SWING-J・WHO-5）をもとに、部下の状態に合った“声のかけ方”をアドバイス。面談や日々のフォローで、社員の安心感やモチベーション向上にもつながります。
+										</p>
+									</div>
+								</li>
+								<li class="sol__item01 swiper-slide">
+									<div class="sol__top">
+										<div class="sol__icon01"><img src="img/sol_icon03.png" alt=""></div>
+										<p class="sol__lead">課題<span class="num babes">03</span>：従業員の課題</p>
+										<ul class="sol__list02">
+											<li class="sol__item02 white bold">身内のことを上司に話すのって、やっぱり気を遣う…。</li>
+											<li class="sol__item02 white bold">いざ介護が始まっても、職場に言い出しにくいし、制度もよく分からない。今まで通り働けるのかも正直不安。</li>
+										</ul>
+									</div>
+									<div class="sol__low">
+										<p class="sol__lead02 white bold">Career&Kaigoで解決！</p>
+										<h3 class="sol__ttl02 bold">従業員が不安を抱え込まないように。<br>「Career & Kaigo」なら、従業員が抱える不安に対して、<br>人事としてできる、一人ひとりに個別最適なサポートを。</h3>
+										<p class="sol__txt01">
+                                            介護や将来への不安には相談窓口や研修動画を通じて、心のケアや介護の専門家にる相談対応を受けられます。さらに、「負担感セルフチェック」などで介護に関する予測をおこない、キャリアの見通しを持てるよう支援します。<br>また<a class="link blue bold" href="#">HARMONY</a>と併せて利用することで両立支援制度や法律の理解をしっかりと後押しします。
+										</p>
+									</div>
+								</li>
+							</ul>
+						</div>
+						<div class="sol__nav">
+							<div class="swiper-button-prev swiper-button-prev01"></div>
+							<div class="swiper-button-next swiper-button-next01"></div>
+						</div>
+					</div>
+				</div>
+			</section>
 			<!-- sol -->
-			
-			
-            <section class="flo flo--bg" id="link05">
-                <div class="flo__inner inner">
-                    <p class="flo__txt01 bold ta-c">最短<span class="green02"><strong class="big">3</strong>〜<strong class="big">4</strong>ヶ月</span>で導入完了！</p>
-                    <h2 class="flo__ttl01 bold ta-c">
-                        <span class="txt">アドバンテッジスマートケアの</span>
-                        <strong class="big green02">導入フロー</strong>
-                    </h2>
-                    <ol class="flo__list">
-                        <li class="flo__item">
-                            <p class="flo__num01 babes white bold ta-c">STEP<span class="num">01</span></p>
-                            <div class="flo__img01 flo__img01--num01"><img src="img/flo_img01.webp" alt=""></div>
-                            <p class="flo__txt02 bold ta-c">課題ヒアリングご提案</p>
-                        </li>
-                        <li class="flo__item">
-                            <p class="flo__num01 babes white bold ta-c">STEP<span class="num">02</span></p>
-                            <div class="flo__img01 flo__img01--num02"><img src="img/flo_img02.webp" alt=""></div>
-                            <p class="flo__txt02 bold ta-c">データ移行・設定支援</p>
-                        </li>
-                        <li class="flo__item">
-                            <p class="flo__num01 babes white bold ta-c">STEP<span class="num">03</span></p>
-                            <div class="flo__img01 flo__img01--num03"><img src="img/flo_img03.webp" alt=""></div>
-                            <p class="flo__txt02 flo__txt02--num02 bold ta-c">操作レクチャー 利用開始</p>
-                        </li>
-                    </ol>
-                    <div class="flo__low">
-                        <h3 class="flo__ttl02 ta-c bold white">
-                            アフターサポート<span class="medium">も</span>充実！
-                            <span class="small">浸透するまで、しっかりサポート</span>
-                        </h3>
-                        <ul class="flo__list02">
-                            <li class="flo__item02">
-                                <div class="flo__img02 flo__img02--num01"><img src="img/flo_img04.webp" alt=""></div>
-                                <p class="flo__txt04 ta-c">お電話<br>オンライン<br class="sp-only">サポート</p>
-                            </li>
-                            <li class="flo__item02">
-                                <div class="flo__img02 flo__img02--num02"><img src="img/flo_img05.webp" alt=""></div>
-                                <p class="flo__txt04 ta-c">操作マニュアルの<br>提供</p>
-                            </li>
-                            <li class="flo__item02">
-                                <div class="flo__img02 flo__img02--num03"><img src="img/flo_img06.webp" alt=""></div>
-                                <p class="flo__txt04 ta-c">産業保健<br class="sp-only">スタッフへの<br>操作レクチャー</p>
-                            </li>
-                        </ul>
-                        <div class="flo__img03"><img src="img/flo_img07.webp" alt=""></div>
-                    </div>
-                </div>
-            </section>
+
+
+			<section class="oth oth--bg">
+				<div class="oth__inner inner">
+                    <h2 class="oth__ttl01 bold ta-c">そのほか、<span class="medium">休業者をサポートするサービスも充実</span></h2>
+					<ul class="oth__list">
+						<li class="oth__item oth__item--num01">
+							<div class="oth__img01">
+								<picture>
+									<source media="(max-width: 768px)" srcset="img/oth_img01_sp.png">
+									<img src="img/oth_img01.png" alt="Career & Baby（キャリア＆ベビー）">
+								</picture>
+							</div>
+							<div class="oth__box">
+								<p class="oth__lead">妊娠期から職場復帰後まで一貫したサポート</p>
+								<h3 class="oth__ttl02 bold green">Career & Baby（キャリア＆ベビー）</h3>
+								<p class="oth__txt01">仕事と育児を両立する社員のセルフケア支援や<br class="pc-only">コミュニケーション機能などで、<br class="pc-only">組織の両立体制を強化します。</p>
+								<a class="oth__btn01" href="#">詳しくはこちら</a>
+							</div>
+						</li>
+						<li class="oth__item">
+							<div class="oth__img01">
+								<picture>
+									<source media="(max-width: 768px)" srcset="img/oth_img02_sp.png">
+									<img src="img/oth_img02.png" alt="Career & Baby（キャリア＆ベビー）">
+								</picture>
+							</div>
+							<div class="oth__box">
+								<p class="oth__lead">休業中の従業員と会社を繋ぐクラウドサービス</p>
+								<h3 class="oth__ttl02 bold green">ADVANTAGE HARMONY<br>（アドバンテッジハーモニー）</h3>
+								<p class="oth__txt01">休業している従業員を一括管理するクラウドサービス。管理手法や休業者とのコミュニケーションを統一することで、管理から円滑な職場復帰まで安心の支援体制を構築します。</p>
+								<a class="oth__btn01" href="#">詳しくはこちら</a>
+							</div>
+						</li>
+						<li class="oth__item">
+							<div class="oth__img01">
+								<picture>
+									<source media="(max-width: 768px)" srcset="img/oth_img03_sp.png">
+									<img src="img/oth_img03.png" alt="Career & Baby（キャリア＆ベビー）">
+								</picture>
+							</div>
+							<div class="oth__box">
+								<p class="oth__lead">心身の状態を「見える化」オンライン復職支援</p>
+								<h3 class="oth__ttl02 bold green">復職支援プログラム eRework<br>（イーリワーク）</h3>
+								<p class="oth__txt01">「認知行動理論」をベースとした研修動画と再発防止のためのワークやGPSを活用した移動訓練等で多角的に現在の状態をスコア化します。</p>
+								<a class="oth__btn01" href="#">詳しくはこちら</a>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</section>
+			<!-- oth -->
+
+
+			<section class="flo flo--bg">
+				<div class="flo__inner inner">
+                    <h2 class="flo__ttl01 bold ta-c">運用開始までのフロー</h2>
+					<div class="flo__img01">
+						<picture>
+							<source media="(max-width: 768px)" srcset="img/flo_img01_sp.png">
+							<img src="img/flo_img01.png" alt="運用開始までのフローのイメージ">
+						</picture>
+					</div>
+				</div>
+			</section>
 			<!-- flo -->
-			
-			
+
+
             <section class="faq faq--bg">
                 <div class="faq__inner inner">
-                    <h2 class="faq__ttl01 bold ta-c">よくあるご質問</h2>
+                    <h2 class="faq__ttl01 bold ta-c">よくある質問</h2>
                     <ul class="faq__list">
                         <li class="faq__item">
                             <dl class="faq__dl">
-                                <dt class="faq__dt">健診結果データの取り込みは<br class="sp-only">簡単にできますか？</dt>
-                                <dd class="faq__dd">はい。変換ツールを利用して、健診結果データを簡単な操作で取り込みが可能です。</dd>
+                                <dt class="faq__dt bold"><p class="txt">（2025年施行の改正法で求められる）介護に直面する前の早い段階（40 歳等）での<br class="pc-only">情報提供に対する情報提供や介護に直面した社員への個別周知等を行うことはできますか？</p></dt>
+                                <dd class="faq__dd">ADVANTAGE HARMONY（アドバンテッジ ハーモニー）でご提供しており、Career & Kaigoと併せてご利用いただくことが可能です。<br>ADVANTAGE HARMONYのお問い合わせは<a class="link blue bold" href="#">こちら</a></dd>
                             </dl>
                         </li>
                         <li class="faq__item">
                             <dl class="faq__dl">
-                                <dt class="faq__dt">産業医との健康情報、面談記録などの共有や意見書の管理も可能ですか？</dt>
-                                <dd class="faq__dd">はい。システム上ですべて一元管理しており、産業医との共有は可能です。</dd>
+                                <dt class="faq__dt bold"><p class="txt">このサービスは介護休業を利用する社員しか使えませんか。</p></dt>
+                                <dd class="faq__dd">介護休業を利用している社員は勿論、介護休業を取らずに仕事と両立している社員や介護に直面したばかりの社員も使えます。また、その他に両立中の部下を持つ上司、人事担当者に向けた機能もあります。</dd>
+                            </dl>
+                        </li>
+                        <li class="faq__item">
+                            <dl class="faq__dl">
+                                <dt class="faq__dt bold"><p class="txt">介護に直面した社員とは状況を把握するために定期的に面談をおこないます。<br>面談記録の管理や共有はできますか？</p></dt>
+                                <dd class="faq__dd">Career＆Kaigoには、厚生労働省『介護支援プラン策定マニュアル』を参考に作成した対応記録フォーマットを用意しており、面談内容を時系列で記録・管理できます。<br>さらに、人事・上司・産業保健スタッフ間で安全に共有できるため、支援の質と連携力が大きく向上します。</dd>
+                            </dl>
+                        </li>
+                        <li class="faq__item">
+                            <dl class="faq__dl">
+                                <dt class="faq__dt bold"><p class="txt">人事や上司に介護の知識がなくても安心して使えますか？</p></dt>
+                                <dd class="faq__dd">はい、大丈夫です。<br>本サービスは、介護支援の専門企業である東京海上日動ベターライフサービス社のノウハウを活かし、部下への対応についての研修動画がございます。「何から始めればいいか」が自然とわかる構成なので、初めての方でも安心してご利用いただけます。</dd>
+                            </dl>
+                        </li>
+                        <li class="faq__item">
+                            <dl class="faq__dl">
+                                <dt class="faq__dt bold"><p class="txt">価格を教えてください。</p></dt>
+                                <dd class="faq__dd">個別のお見積とさせていただいておりますので、詳しくはお問い合わせください。<br>お問い合わせは<a class="link blue bold" href="#">こちら</a></dd>
+                            </dl>
+                        </li>
+                        <li class="faq__item">
+                            <dl class="faq__dl">
+                                <dt class="faq__dt bold"><p class="txt">運用開始後に、操作方法などの不明点や利用する社員へのサポートはしてもらえますか？</p></dt>
+                                <dd class="faq__dd">はい。サポートしています。メールによるサポートのほか、専用のサポートダイヤル<br>【受付時間: 平日午前10時~午後5時】でも受け付けております。</dd>
                             </dl>
                         </li>
                     </ul>
@@ -510,18 +668,12 @@
             </section>
 			<!-- faq -->
 
-
 			<section class="cta cta--bg">
 				<div class="cta__inner inner">
                     <div class="cta__box">
-                        <h2 class="cta__ttl01 white bold ta-c">
-                            <span class="small">低コストで始められる<br class="sp-only">「かんたん、やさしい健康管理システム」</span>
-                            <span class="big">料金表付き資料を<strong class="yellow">無料</strong>でご提供中</span>
-                        </h2>
-                        <div class="cta__low cta__low--num02">
-                            <a class="cta__btn01 cta__btn01--num01 green bold" href="#">まずはご相談から</a>
-                            <a class="cta__btn01 cta__btn01--num02 green bold" href="#">資料ダウンロードはこちら</a>
-                        </div>
+                        <h2 class="cta__ttl01 bold ta-c">従業員の状況に合わせた<br class="sp-only"><strong class="big">仕事と介護の両立支援</strong>を提供する</h2>
+                        <div class="cta__img01"><img src="img/cta_img01.png" alt="Career & Kaigo"></div>
+                        <a class="cta__btn01 white bold" href="#">お問い合わせはこちら</a>
                     </div>
 				</div>
 			</section>
