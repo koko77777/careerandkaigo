@@ -476,47 +476,180 @@ mv
             background: #f0e9d9;
         }
         .mv {
+            &__inner {
+                width: 1200px;
+            }
+            &__wrap {
+                display: flex;
+            }
             &__left {
+                width: 585px;
+                margin-right: 20px;
             }
             &__lead {
-                .big {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                height: 50px;
+                border-radius: 25px;
+                background-color: #453112;
+                font-size: 20px;
+                line-height: 1;
+                letter-spacing: 0.05em;
+                &::before {
+                    content: "";
+                    display: block;
+                    width: 24px;
+                    height: 24px;
+                    margin-right: 10px;
+                    background: url(../img/fea_circle01.png) top center/ contain
+                        no-repeat;
                 }
-                .bold {
+                .big {
+                    font-size: 24px;
                 }
             }
             &__ttl01 {
+                margin-top: 10px;
                 .txt {
+                    font-size: 32px;
+                    line-height: 1.5;
                 }
                 .img {
+                    display: block;
+                    width: 587px;
+                    margin-top: 10px;
                 }
             }
             &__box {
+                margin-top: 20px;
+                border-radius: 20px;
+                background-color: #fff;
             }
             &__top {
+                position: relative;
+                z-index: 1;
+                padding: 12px;
+                border-radius: 20px 20px 0 0;
+                background-color: #66a500;
+                font-size: 23px;
+                line-height: 1;
+                .big {
+                    font-size: 26px;
+                }
+                &::before {
+                    content: "";
+                    display: block;
+                    position: absolute;
+                    z-index: -1;
+                    bottom: -8px;
+                    left: 50%;
+                    transform: translateX(-50%);
+                    width: 39px;
+                    height: 39px;
+                    background: url(../img/fea_triangle01.png) top center/
+                        contain no-repeat;
+                }
             }
             &__low {
+                display: flex;
+                padding: 15px 23px;
             }
             &__img02 {
+                width: 263px;
+                margin-right: 20px;
             }
             &__list {
             }
             &__item {
+                position: relative;
+                margin-top: 4px;
+                padding-left: 20px;
+                font-size: 17px;
+                letter-spacing: 0.06em;
+                &::after {
+                    content: "";
+                    display: block;
+                    position: absolute;
+                    top: 50%;
+                    transform: translateY(-50%);
+                    left: 0;
+                    width: 17px;
+                    height: 17px;
+                }
+                &:nth-child(1) {
+                    &::after {
+                        background: url(../img/mv_icon01.png) top center/
+                            contain no-repeat;
+                    }
+                }
+                &:nth-child(2) {
+                    &::after {
+                        background: url(../img/mv_icon02.png) top center/
+                            contain no-repeat;
+                    }
+                }
+                &:nth-child(3) {
+                    &::after {
+                        background: url(../img/mv_icon03.png) top center/
+                            contain no-repeat;
+                    }
+                }
             }
             &__btn01 {
+                position: relative;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 585px;
+                height: 80px;
+                margin: 40px auto 0;
+                border-radius: 42px;
+                box-shadow: 4.8px 6.4px 22.8px 1.2px rgba(135, 129, 116, 0.2);
+                background-color: #3a77b4;
+                font-size: 26px;
+                letter-spacing: 0.08em;
+                color: #fff;
+                &::after {
+                    content: "";
+                    display: block;
+                    position: absolute;
+                    top: 50%;
+                    right: 20px;
+                    transform: translateY(-50%);
+                    width: 40px;
+                    height: 40px;
+                    background: url(../img/mv_arrow01.png) top center/ contain
+                        no-repeat;
+                }
             }
             &__note {
-            }
-            .link {
+                white-space: nowrap;
+                margin-top: 20px;
+                font-size: 15px;
+                line-height: 1.67;
+                .link {
+                    display: inline-block;
+                    line-height: 1;
+                    border-bottom: 1px solid #3a77b4;
+                }
             }
             &__right {
             }
             &__img01 {
+                width: 562px;
+                margin-left: 25px;
             }
             &__img03 {
+                width: 588px;
+                margin-top: 35px;
             }
             &__list02 {
+                margin-top: 20px;
             }
             &__item02 {
+                font-size: 10px;
+                line-height: 2;
             }
         }
     }
@@ -528,27 +661,95 @@ had
 @media screen and (min-width: 641px) {
     .had {
         &--bg {
+            padding: 80px 0 200px;
+            background-color: #faf4ea;
         }
         .had {
             &__ttl01 {
+                font-size: 36px;
+                line-height: 1.67;
                 .small {
+                    font-size: 30px;
                 }
                 .big {
+                    display: inline-block;
+                    margin-right: 5px;
+                    padding: 0 10px;
+                    font-size: 44px;
+                    border-radius: 3px;
+                    background-color: #66a500;
+                    line-height: 1.2;
                 }
             }
             &__list {
+                display: flex;
+                justify-content: space-between;
+                margin-top: 50px;
             }
             &__item {
+                position: relative;
+                width: 310px;
+                height: 210px;
+                padding-top: 120px;
+                border-radius: 20px;
+                background-color: #fff;
             }
             &__img01 {
+                position: absolute;
+                top: 23px;
+                left: 50%;
+                transform: translateX(-50%);
+                &--num01 {
+                    width: 75px;
+                }
+                &--num02 {
+                    width: 65px;
+                }
+                &--num03 {
+                    width: 57px;
+                }
             }
             &__txt01 {
+                font-size: 20px;
+                line-height: 1.75;
             }
             &__comment {
+                position: absolute;
+                top: -26px;
+                right: -35px;
+                width: 158px;
+                height: 117px;
+                padding-top: 30px;
+                font-size: 16px;
+                line-height: 1.31;
+                background: url(../img/had_bg01.png) top center/ cover no-repeat;
             }
+
             &__ttl02 {
-                .green {
+                position: relative;
+                margin-top: 60px;
+                font-size: 26px;
+                line-height: 1.42;
+                &::after {
+                    content: "";
+                    display: block;
+                    position: absolute;
+                    top: -40px;
+                    left: 50%;
+                    transform: translateX(-50%);
+                    width: 25px;
+                    height: 28px;
+                    background: url(../img/had_arrow01.png) top center/ contain
+                        no-repeat;
                 }
+                .green {
+                    font-size: 36px;
+                }
+            }
+
+            &__img02 {
+                width: 1003px;
+                margin-top: 50px;
             }
         }
     }
@@ -560,14 +761,30 @@ inf
 @media screen and (min-width: 641px) {
     .inf {
         &--bg {
+            margin-top: -100px;
+            padding: 170px 0 200px;
+            background: url(../img/inf_bg01.png) top center/ 2000px no-repeat;
         }
         .inf {
             &__ttl01 {
+                font-size: 36px;
+                line-height: 1.61;
                 .bg {
+                    display: inline-block;
+                    margin-right: 5px;
+                    padding: 0 10px;
+                    font-size: 44px;
+                    border-radius: 3px;
+                    background-color: #453112;
+                    line-height: 1.2;
                 }
             }
             &__img01 {
+                margin-top: 50px;
             }
+        }
+        .cta__box {
+            margin-top: 100px;
         }
     }
 }
@@ -580,7 +797,7 @@ imp
         &--bg {
             position: relative;
             z-index: 1;
-            margin-top: -280px;
+            margin-top: -480px;
             padding: 380px 0 70px;
             background: url(../img/imp_bg01.png) top center/ 2000px no-repeat;
             &::after {
@@ -896,10 +1113,14 @@ pre
 @media screen and (min-width: 641px) {
     .pre {
         &--bg {
+            padding: 80px 0;
         }
         .pre {
             &__ttl01 {
+                font-size: 36px;
+                letter-spacing: 0.07em;
                 .big {
+                    font-size: 44px;
                 }
             }
             &__img01 {

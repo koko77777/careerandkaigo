@@ -127,39 +127,41 @@
             
             <section class="mv mv--bg01 cta">
                 <div class="mv__inner inner">
-                    <div class="mv__left">
-                        <p class="mv__lead white ta-c"><strong class="big">法制度以上の両立支援</strong>をお考えの<span class="bold">人事ご担当者様</span>へ</p>
-                        <h1 class="mv__ttl01 bold">
-                            <span class="txt">仕事と介護の両立を<br>ひとりひとりに合わせて支援</span>
-                            <span class="img"><img src="img/mv_logo.png" alt="Career & Kaigo"></span>
-                        </h1>
-                        <div class="mv__box">
-                            <p class="mv__top bold ta-c"><strong class="big">悩めるすべての方</strong>に適切なサポートを。</p>
-                            <div class="mv__low">
-                                <div class="mv__img02">
-                                    <picture>
-                                        <source media="(max-width: 768px)" srcset="img/mv_img02_sp.png">
-                                        <img src="img/mv_img02.png" alt="">
-                                    </picture>
-                                </div>
-                                <ul class="mv__list">
-                                    <li class="mv__item bold">お悩みの見える化</li>
-                                    <li class="mv__item bold">悩みに寄り添う研修動画</li>
-                                    <li class="mv__item bold">状況に合わせたフォロー</li>
-                                </ul>
-                            </div>
-                            <a class="mv__btn01" href="#">お問い合わせはこちら</a>
-                            <p class="mv__note">Career & Kaigoと東京海上日動ベターライフサービスと共催セミナーを開催いたしました。<br>登壇資料を入手したいかたは<a class="link blue bold" href="#">こちらをクリック</a>してお申し込みください。</p>
-                        </div>
-                    </div>
-                    <div class="mv__right">
-                        <div class="mv__img01 pc-only"><img src="img/mv_img01.png" alt="Career & Kaigoのイメージ"></div>
-                        <div class="mv__img03">
-                            <picture>
-                                <source media="(max-width: 768px)" srcset="img/mv_img03_sp.png">
-                                <img src="img/mv_img03.png" alt="東京海上日動ベターライフサービスと共同開発 健康経営銘柄の約45%ホワイト500の3割に当社サービスを提供 計483万人の従業員様を支援してきたアドバンテッジリスクマネジメントが提供">
-                            </picture>
-                        </div>
+					<div class="mv__wrap">
+						<div class="mv__left">
+							<p class="mv__lead white ta-c"><strong class="big bold">法制度以上の両立支援</strong>をお考えの<span class="bold">人事ご担当者様</span>へ</p>
+							<h1 class="mv__ttl01 bold">
+								<span class="txt">仕事と介護の両立を<br>ひとりひとりに合わせて支援</span>
+								<span class="img"><img src="img/mv_logo.png" alt="Career & Kaigo"></span>
+							</h1>
+							<div class="mv__box">
+								<p class="mv__top bold ta-c white"><strong class="big">悩めるすべての方</strong>に適切なサポートを。</p>
+								<div class="mv__low">
+									<div class="mv__img02">
+										<picture>
+											<source media="(max-width: 768px)" srcset="img/mv_img02_sp.png">
+											<img src="img/mv_img02.png" alt="">
+										</picture>
+									</div>
+									<ul class="mv__list">
+										<li class="mv__item bold">お悩みの見える化</li>
+										<li class="mv__item bold">悩みに寄り添う研修動画</li>
+										<li class="mv__item bold">状況に合わせたフォロー</li>
+									</ul>
+								</div>
+							</div>
+							<a class="mv__btn01" href="#">お問い合わせはこちら</a>
+							<p class="mv__note bold">Career & Kaigoと東京海上日動ベターライフサービスと共催セミナーを開催いたしました。<br>登壇資料を入手したいかたは<a class="link blue bold" href="#">こちらをクリック</a>してお申し込みください。</p>
+						</div>
+						<div class="mv__right">
+							<div class="mv__img01 pc-only"><img src="img/mv_img01.png" alt="Career & Kaigoのイメージ"></div>
+							<div class="mv__img03">
+								<picture>
+									<source media="(max-width: 768px)" srcset="img/mv_img03_sp.png">
+									<img src="img/mv_img03.png" alt="東京海上日動ベターライフサービスと共同開発 健康経営銘柄の約45%ホワイト500の3割に当社サービスを提供 計483万人の従業員様を支援してきたアドバンテッジリスクマネジメントが提供">
+								</picture>
+							</div>
+						</div>
                     </div>
                     <ul class="mv__list02">
                         <li class="mv__item02">※1  「健康経営優良法人2025」認定法人における当社のサービス提供実績より</li>
@@ -174,25 +176,25 @@
 				<div class="had__inner inner">
                     <h2 class="had__ttl01 bold ta-c">
 						改正法・ガイドライン・健康経営度調査票<span class="small">など</span><br>
-						<strong class="big white">企業による介護の両立支援の充実</strong>が<br class="sp-only">求められています
+						<strong class="big white">企業による介護の両立支援の充実</strong><span class="small">が<br class="sp-only">求められています</span>
 					</h2>
 					<ul class="had__list">
 						<li class="had__item">
-							<div class="had__img01"><img src="img/had_img01.png" alt=""></div>
-							<p class="had__txt01">改正・育児介護休業法による<br>仕事と介護の両立支援の強化</p>
+							<div class="had__img01 had__img01--num01"><img src="img/had_img01.png" alt=""></div>
+							<p class="had__txt01 bold ta-c">改正・育児介護休業法による<br>仕事と介護の両立支援の強化</p>
 						</li>
 						<li class="had__item">
-							<p class="had__comment white ta-c">法定以上の<br>運用が<br>求められる</p>
-							<div class="had__img01"><img src="img/had_img02.png" alt=""></div>
-							<p class="had__txt01">健康経営度調査票でも<br>介護に関する評価項目あり</p>
+							<p class="had__comment white ta-c bold">法定以上の<br>運用が<br>求められる</p>
+							<div class="had__img01 had__img01--num02"><img src="img/had_img02.png" alt=""></div>
+							<p class="had__txt01 bold ta-c">健康経営度調査票でも<br>介護に関する評価項目あり</p>
 						</li>
 						<li class="had__item">
-							<div class="had__img01"><img src="img/had_img03.png" alt=""></div>
-							<p class="had__txt01">経産省による<br>経営者向けガイドラインの公表</p>
+							<div class="had__img01 had__img01--num03"><img src="img/had_img03.png" alt=""></div>
+							<p class="had__txt01 bold ta-c">経産省による<br>経営者向けガイドラインの公表</p>
 						</li>
 					</ul>
 					<h3 class="had__ttl02 ta-c bold"><span class="green">個々に異なる介護事情を<br class="sp-only">どこまで支援すべきか</span>など<br>人事担当者は難しい判断を迫られています。</h3>
-					<div class="had__img01">
+					<div class="had__img02">
 						<picture>
 							<source media="(max-width: 768px)" srcset="img/had_img04_sp.png">
 							<img src="img/had_img04.png" alt="そもそも相談されても、社内には介護に詳しい人がいないので分からない 仕事をしながら介護することを前提としたサポートを探している 介護相談はどれも状況がバラバラで適切なフォローが難しい">
@@ -207,7 +209,7 @@
 				<div class="inf__inner inner">
                     <h2 class="inf__ttl01 bold ta-c">
 						終わりの見えない<br class="sp-only">介護のストレス・不安は、企業に<br>
-						<strong class="bg">重要人材の流出や生産性への悪影響</strong><br class="sp-only">を及ぼします
+						<strong class="bg white">重要人材の流出や生産性への悪影響</strong><br class="sp-only">を及ぼします
 					</h2>
 					<div class="inf__img01">
 						<picture>
