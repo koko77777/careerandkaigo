@@ -282,7 +282,7 @@
 
 			<section class="fea fea--bg">
 				<div class="fea__inner inner">
-					<p class="fea__lead01"><strong class="big">人事・従業員・上司</strong>の<br class="sp-only"><span class="num quick green">3</span>方向の安心を実現</p>
+					<p class="fea__lead01 bold"><strong class="big">人事・従業員・上司</strong>の<br class="sp-only"><span class="num quick green">3</span>方向の安心を実現</p>
                     <h2 class="fea__ttl01 bold ta-c">心理的安心感を高め、<br><strong class="big green">相談しやすい<br class="sp-only">組織風土への変化</strong>を支援</h2>
 					<ol class="fea__list">
 						<li class="fea__item">
@@ -305,11 +305,11 @@
 									</picture>
 								</div>
 							</div>
-							<p class="fea__ttl04 bold">3つのセルフチェックが、<br class="sp-only">休業前～両立期の従業員の<br class="sp-only">心身の状態を見える化。</p>
+							<p class="fea__ttl07 bold">3つのセルフチェックが、<br class="sp-only">休業前～両立期の従業員の<br class="sp-only">心身の状態を見える化。</p>
 							<div class="fea__box">
 								<div class="fea__flex">
 									<div class="fea__flex__img"><img src="img/fea_img05.png" alt="3つのセルフチェック"></div>
-									<p class="fea__flex__txt">3つのセルフチェックの結果からくる上司向けの<br class="pc-only">コメントによって、<br class="sp-only">従業員への具体的で本質的な声掛けができ、<br class="pc-only">本人の不安を軽減させることに役立ちます。</p>
+									<p class="fea__flex__txt bold">3つのセルフチェックの結果からくる上司向けの<br class="pc-only">コメントによって、<br class="sp-only">従業員への具体的で本質的な声掛けができ、<br class="pc-only">本人の不安を軽減させることに役立ちます。</p>
 								</div>
 								<p class="fea__txt01">
 									<strong class="big bold">介護の負担感アンケート<span class="small">（独自開発）</span>とは</strong>
@@ -323,18 +323,22 @@
 								<p class="fea__txt01"><strong class="big bold">SWING-J、WHO-5とは</strong></p>
 								<ul class="fea__list03">
 									<li class="fea__item03">
-										<div class="fea__box02">
+										<div class="fea__wrap">
 											<p class="fea__txt02 ta-c bold">ワークライフバランスに関する設問<span class="small">（SWING-J）</span></p>
-											<div class="fea__img04"><img src="img/fea_img07.png" alt=""></div>
-											<p class="fea__txt03">家庭・仕事のそれぞれの影響とその課題を可視化し、課題に即した研修動画を提供。</p>
+											<div class="fea__box02">
+												<div class="fea__img04"><img src="img/fea_img07.png" alt=""></div>
+												<p class="fea__txt03">家庭・仕事のそれぞれの影響とその課題を可視化し、課題に即した研修動画を提供。</p>
+											</div>
 										</div>
 										<p class="fea__note01">（出典）<br>Shimada, K., Shimazu, A., Geurts, S. A. E., & Kawakami, N. (2018). Reliability and validity of the Japanese version of the Survey Work–Home Interaction – NijmeGen, the SWING (SWING-J) Community, Work & Family, <br>DOI: 10.1080/13668803.2018.1471588</p>
 									</li>
 									<li class="fea__item03">
-										<div class="fea__box02">
+										<div class="fea__wrap">
 											<p class="fea__txt02 ta-c bold">こころの健康状態<span class="small">（WHO=5）</span></p>
-											<div class="fea__img04"><img src="img/fea_img07.png" alt=""></div>
-											<p class="fea__txt03">こころの健康状態を可視化し、一定の基準を下回った場合、カウンセリングを促すメールが届く。</p>
+											<div class="fea__box02">
+												<div class="fea__img04"><img src="img/fea_img08.png" alt=""></div>
+												<p class="fea__txt03">こころの健康状態を可視化し、一定の基準を下回った場合、カウンセリングを促すメールが届く。</p>
+											</div>
 										</div>
 										<p class="fea__note01">（出典）<br>Bech P. Clinical Psychometrics. Oxford, Wiley-Blackwell 2012. Topp CW, Østergaard SD, Søndergaard S, Bech P.  The WHO-5 Well-being Index: A systematic review of the Literature. Psychotherapy & Psychosomatics  2015;84(3):167-76.</p>
 									</li>
@@ -344,14 +348,14 @@
 						<li class="fea__item">
 							<div class="fea__top">
 								<div class="fea__info">
-									<p class="fea__num01 white bold ta-c">特長<span class="num babes">01</span></p>
+									<p class="fea__num01 white bold ta-c">特長<span class="num babes">02</span></p>
 									<p class="fea__en01 quick blue">Know-how video</p>
 									<h3 class="fea__ttl02 bold blue">ノウハウ研修動画</h3>
 									<h4 class="fea__ttl03 bold">介護者本人が抱える<span class="blue">内面的な<br class="sp-only">不安や課題を<br class="pc-only">解決するノウハウ<br class="sp-only">や、上司のマネジメント<br class="pc-only">スキルを向上させるノウハウ</span>を提供。</h4>
 								</div>
 								<div class="fea__img01"><img src="img/fea_img02.png" alt="ノウハウ研修動画のイメージ"></div>
 							</div>
-							<p class="fea__ttl04 bold">セルフチェック結果から見える化された、介護者本人が抱えるさまざまな課題を、<br class="pc-only">解決支援するノウハウ研修動画をレコメンド。<br>スキマ時間に、いつでも動画で研修を受けられる。</p>
+							<p class="fea__ttl07 bold">セルフチェック結果から見える化された、介護者本人が抱えるさまざまな課題を、<br class="pc-only">解決支援するノウハウ研修動画をレコメンド。<br>スキマ時間に、いつでも動画で研修を受けられる。</p>
 							<p class="fea__comment01 white bold ta-c">介護者本人・上司に向けた研修動画</p>
 							<ul class="fea__list04">
 								<li class="fea__item04">
@@ -395,7 +399,7 @@
 								</div>
 								<div class="fea__img01"><img src="img/fea_img03.png" alt="状況に合わせたフォローのイメージ"></div>
 							</div>
-							<p class="fea__ttl04 bold">関連機能</p>
+							<p class="fea__ttl07 bold">関連機能</p>
 							<ul class="fea__list06">
 								<li class="fea__item06">
 									<div class="fea__left">
@@ -404,7 +408,7 @@
 									<div class="fea__right">
 										<p class="fea__ttl06 bold">相談窓口</p>
 										<p class="fea__dot">即時電話カウンセリング</p>
-										<p class="fea__dot">（東京海上日動ベターライフサービス社の）Web介護相談</p>
+										<p class="fea__dot">(東京海上日動ベターライフサービス社の）Web介護相談</p>
 									</div>
 								</li>
 								<li class="fea__item06">
@@ -448,15 +452,17 @@
 							<img src="img/pre_img01.png" alt="不安要素のイメージ">
 						</picture>
 					</div>
-					<div class="pre__box">
-						<p class="pre__txt01 white bold ta-c">専門家<br class="pc-only"><span class="small">による</span>相談窓口</p>
+				</div>
+				<div class="pre__box">
+					<div class="inner">
+						<p class="pre__circle01 white bold ta-c">専門家<br class="sp-only"><span class="small">による</span><br>相談窓口</p>
 						<h3 class="pre__ttl02 bold ta-c">介護中の<strong class="big">こころの不安</strong>、<br class="sp-only">仕事と介護の<strong class="big">両立の悩み</strong>など<br><span class="medium">従業員の個別事情に寄り添います。</span></h3>
 						<ul class="pre__list">
 							<li class="pre__item">
 								<p class="pre__comment01 white bold ta-c">標準<br>搭載</p>
 								<p class="pre__ttl03 white bold ta-c">メンタルケアの専門家</p>
 								<div class="pre__low">
-									<div class="pre__logo01"><img src="img/pre_img01.png" alt="アドバンテッジリスクマネジメント"></div>
+									<div class="pre__logo01"><img src="img/pre_img02.png" alt="アドバンテッジリスクマネジメント"></div>
 								</div>
 								<p class="pre__txt01 bold ta-c">メンタルの情報提供・相談窓口</p>
 							</li>
@@ -464,18 +470,19 @@
 								<p class="pre__comment01 white bold ta-c">別途<br>契約</p>
 								<p class="pre__ttl03 white bold ta-c">介護の専門家</p>
 								<div class="pre__low">
-									<div class="pre__logo02"><img src="img/pre_img02.png" alt="東京海上日動ベターライフサービス"></div>
+									<div class="pre__logo02"><img src="img/pre_img03.png" alt="東京海上日動ベターライフサービス"></div>
 								</div>
 								<p class="pre__txt01 bold ta-c">WEB介護相談/介護コミュニティ運営支援<br>産業ケアマネジャー個別相談</p>
 							</li>
 						</ul>
 					</div>
-					<div class="pre__box02">
+				</div>
+				<div class="pre__box02">
+					<div class="inner">
 						<p class="pre__comment02 white quick">Pick Up</p>
-						
-						<div class="pre__logo03"><img src="img/pre_img03.png" alt="Career & Kaigo 東京海上日動ベターライフサービス"></div>
+						<div class="pre__logo03"><img src="img/pre_img04.png" alt="Career & Kaigo 東京海上日動ベターライフサービス"></div>
 						<p class="pre__txt02 bold ta-c">Career & Kaigoと<br class="sp-only">東京海上日動ベターライフサービスと<br class="sp-only">共催セミナーを開催いたしました。<br>登壇資料を入手したいかたは<br class="sp-only"><a class="link bold blue" href="#">こちらをクリック</a>してお申し込みください。</p>
-						<div class="pre__img02"><img src="img/pre_img04.png" alt=""></div>
+						<div class="pre__img02"><img src="img/pre_img05.png" alt=""></div>
 					</div>
 				</div>
 			</section>
