@@ -190,7 +190,7 @@
 						</li>
 						<li class="had__item">
 							<div class="had__img01 had__img01--num03"><img src="img/had_img03.png" alt=""></div>
-							<p class="had__txt01 bold ta-c">経産省による<br>経営者向けガイドラインの公表</p>
+							<p class="had__txt01 bold ta-c">経産省による<br class="pc-only">経営者向け<br class="sp-only">ガイドラインの公表</p>
 						</li>
 					</ul>
 					<h3 class="had__ttl02 ta-c bold"><span class="green">個々に異なる介護事情を<br class="sp-only">どこまで支援すべきか</span>など<br>人事担当者は難しい判断を迫られています。</h3>
@@ -205,7 +205,7 @@
 			<!-- had -->
 
 
-			<section class="inf inf--bg cta">
+			<section class="inf inf--bg">
 				<div class="inf__inner inner">
                     <h2 class="inf__ttl01 bold ta-c">
 						終わりの見えない<br class="sp-only">介護のストレス・不安は、企業に<br>
@@ -217,21 +217,21 @@
 							<img src="img/inf_img01.png" alt="男女別の主な介護者の年齢分布">
 						</picture>
 					</div>
-					<div class="cta__box">
-                        <h2 class="cta__ttl01 bold ta-c">従業員の状況に合わせた<br class="sp-only"><strong class="big">仕事と介護の両立支援</strong>を提供する</h2>
-                        <div class="cta__img01"><img src="img/cta_img01.png" alt="Career & Kaigo"></div>
-                        <a class="cta__btn01 white bold" href="#">お問い合わせはこちら</a>
-                    </div>
 				</div>
 			</section>
 			<!-- inf -->
 
 
-			<section class="imp imp--bg">
+			<section class="imp imp--bg cta">
 				<div class="imp__inner inner">
+					<div class="cta__box">
+                        <h2 class="cta__ttl01 bold ta-c">従業員の状況に合わせた<br class="sp-only"><strong class="big">仕事と介護の両立支援</strong>を提供する</h2>
+                        <div class="cta__img01"><img src="img/cta_img01.png" alt="Career & Kaigo"></div>
+                        <a class="cta__btn01 white bold" href="#">お問い合わせはこちら</a>
+                    </div>
                     <h2 class="imp__ttl01 bold ta-c">
 						<span class="lead"><strong class="big">重要</strong>なのは</span>
-						<span class="txt"><span class="green">仕事をしながら介護をすることを前提</span>とし、<br class="pc-only"><span class="green">ひとりひとりに合った支援をおこなう</span>こと</span>
+						<span class="txt"><span class="green">仕事をしながら介護をすることを前提</span>とし、<br class="pc-only"><span class="green">ひとりひとりに合った<br class="sp-only">支援をおこなう</span>こと</span>
 					</h2>
 					<div class="imp__img01">
 						<picture>
@@ -445,7 +445,7 @@
 
 			<section class="pre pre--bg">
 				<div class="pre__inner inner">
-                    <h2 class="pre__ttl01 bold ta-c">「メンタル」「介護」について<br><strong class="big green">専門家に相談できる窓口</strong>もご用意</h2>
+                    <h2 class="pre__ttl01 bold ta-c">「メンタル」「介護」について<br><strong class="big green">専門家に相談できる窓口</strong><br class="sp-only">もご用意</h2>
 					<div class="pre__img01">
 						<picture>
 							<source media="(max-width: 768px)" srcset="img/pre_img01_sp.png">

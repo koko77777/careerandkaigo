@@ -115,12 +115,12 @@ sample
             &__lead {
                 position: relative;
                 height: 103/640 * 100vw;
-                padding-top: 10/640 * 100vw;
+                padding: 10/640 * 100vw 0 0 10/640 * 100vw;
                 border-radius: 15/640 * 100vw;
                 background-color: #453112;
                 font-size: 26/640 * 100vw;
                 line-height: 1.43;
-                letter-spacing: 0.05em;
+                letter-spacing: 0.07em;
                 text-align: center;
                 &::before {
                     content: "";
@@ -147,7 +147,7 @@ sample
                 }
                 .img {
                     display: block;
-                    margin-top: 15/640 * 100vw;
+                    margin-top: 12/640 * 100vw;
                 }
             }
             &__box {
@@ -159,10 +159,12 @@ sample
                 position: relative;
                 z-index: 1;
                 padding: 17/640 * 100vw;
+                padding-left: 30/640 * 100vw;
                 border-radius: 20/640 * 100vw 20/640 * 100vw 0 0;
                 background-color: #66a500;
                 font-size: 25/640 * 100vw;
                 line-height: 1;
+                letter-spacing: 0.08em;
                 .big {
                     font-size: 31/640 * 100vw;
                 }
@@ -171,7 +173,7 @@ sample
                     display: block;
                     position: absolute;
                     z-index: -1;
-                    bottom: -12/640 * 100vw;
+                    bottom: -14/640 * 100vw;
                     left: 50%;
                     transform: translateX(-50%);
                     width: 40/640 * 100vw;
@@ -196,7 +198,7 @@ sample
                 margin-top: 7/640 * 100vw;
                 padding-left: 40/640 * 100vw;
                 font-size: 22/640 * 100vw;
-                letter-spacing: 0.06em;
+                letter-spacing: 0.02em;
                 &::after {
                     content: "";
                     display: block;
@@ -276,11 +278,12 @@ sample
             }
             &__item02 {
                 margin-top: 4/640 * 100vw;
-                padding-left: 30/640 * 100vw;
-                text-indent: -30/640 * 100vw;
+                padding-left: 35/640 * 100vw;
+                text-indent: -35/640 * 100vw;
                 font-size: 18/640 * 100vw;
                 font-weight: 500;
                 line-height: 1.67;
+                letter-spacing: 0.02em;
             }
         }
     }
@@ -298,15 +301,15 @@ sample
         .had {
             &__ttl01 {
                 font-size: 28/640 * 100vw;
-                line-height: 1.67;
+                line-height: 2;
                 letter-spacing: 0;
                 .small {
                     font-size: 26/640 * 100vw;
                 }
                 .big {
                     display: inline-block;
-                    margin-right: 5/640 * 100vw;
-                    padding: 10/640 * 100vw;
+                    margin: 5/640 * 100vw 5/640 * 100vw 0 0;
+                    padding: 12/640 * 100vw 10/640 * 100vw;
                     font-size: 34/640 * 100vw;
                     border-radius: 3/640 * 100vw;
                     background-color: #66a500;
@@ -363,14 +366,14 @@ sample
 
             &__ttl02 {
                 position: relative;
-                margin-top: 60/640 * 100vw;
+                margin-top: 65/640 * 100vw;
                 font-size: 28/640 * 100vw;
-                line-height: 1.8;
+                line-height: 1.9;
                 &::after {
                     content: "";
                     display: block;
                     position: absolute;
-                    top: -60/640 * 100vw;
+                    top: -50/640 * 100vw;
                     left: 50%;
                     transform: translateX(-50%);
                     width: 30/640 * 100vw;
@@ -380,11 +383,12 @@ sample
                 }
                 .green {
                     font-size: 36/640 * 100vw;
+                    line-height: 1.5;
                 }
             }
 
             &__img02 {
-                margin-top: 40/640 * 100vw;
+                margin-top: 30/640 * 100vw;
             }
         }
     }
@@ -398,10 +402,10 @@ inf
         &--bg {
             position: relative;
             z-index: 2;
-            margin-top: -100/640 * 100vw;
-            padding: 110/640 * 100vw 0 100/640 * 100vw;
-            background: url(../img/inf_bg01_sp.png) top center/ 100% no-repeat,
-                #e2dcd2;
+            margin-top: -130/640 * 100vw;
+            padding: 110/640 * 100vw 0 450/640 * 100vw;
+            background: url(../img/inf_bg01_sp.png) top center/ 100% 100%
+                no-repeat;
         }
         .inf {
             &__ttl01 {
@@ -420,9 +424,6 @@ inf
                 margin-top: 40/640 * 100vw;
             }
         }
-        .cta__box {
-            margin-top: 80/640 * 100vw;
-        }
     }
 }
 
@@ -431,12 +432,17 @@ imp
 ========================================================================== */
 @media screen and (max-width: 640px) {
     .imp {
+        .cta__box {
+            transform: translateY(-40.875vw);
+            margin-bottom: -26vw;
+        }
         &--bg {
             position: relative;
-            z-index: 1;
-            margin-top: -280/640 * 100vw;
-            padding: 370/640 * 100vw 0 100/640 * 100vw;
-            background: url(../img/imp_bg01_sp.png) top center/ 100% no-repeat;
+            z-index: 3;
+            margin-top: -100/640 * 100vw;
+            padding: 0/640 * 100vw 0 100/640 * 100vw;
+            background: url(../img/flo_bg01_sp.png) top center/ 100% 100%
+                no-repeat;
             &::after {
                 content: "";
                 display: block;
@@ -475,7 +481,7 @@ imp
                 }
                 .txt {
                     display: block;
-                    margin-top: 25/640 * 100vw;
+                    margin-top: 40/640 * 100vw;
                     font-size: 28/640 * 100vw;
                     line-height: 1.4;
                     letter-spacing: 0.06em;
@@ -1372,27 +1378,27 @@ pre
 @media screen and (max-width: 640px) {
     .pre {
         &--bg {
-            padding: 80/640 * 100vw 0;
+            padding: 0/640 * 100vw 0 200/640 * 100vw;
             background: #f0e9d9;
         }
         .pre {
             &__ttl01 {
                 font-size: 36/640 * 100vw;
-                letter-spacing: 0.07em;
-                line-height: 1.36;
+                letter-spacing: 0.1em;
+                line-height: 1.5;
                 .big {
                     font-size: 44/640 * 100vw;
                 }
             }
             &__img01 {
-                margin-top: 20/640 * 100vw;
+                margin-top: 10/640 * 100vw;
             }
             &__box {
                 position: relative;
                 z-index: 2;
                 width: 600/640 * 100vw;
-                margin: -10/640 * 100vw auto 0;
-                padding: 90/640 * 100vw 30/640 * 100vw 60/640 * 100vw;
+                margin: -30/640 * 100vw auto 0;
+                padding: 90/640 * 100vw 0 60/640 * 100vw;
                 border-radius: 60/640 * 100vw;
                 background-color: #d6e2c2;
                 .inner {
@@ -1425,20 +1431,31 @@ pre
                     line-height: 1.3;
                 }
                 .medium {
+                    display: inline-block;
+                    transform: translateX(10/640 * 100vw);
                     font-size: 34/640 * 100vw;
                 }
             }
             &__list {
                 margin-top: 45/640 * 100vw;
+                padding: 0 10/640 * 100vw;
             }
             &__item {
                 position: relative;
                 min-height: 35/640 * 100vw;
+                margin-top: 40/640 * 100vw;
+                padding-bottom: 30/640 * 100vw;
                 border-radius: 30/640 * 100vw;
                 background-color: #fff;
+                &:nth-child(1) {
+                    .pre__ttl03 {
+                        padding-left: 30/640 * 100vw;
+                    }
+                }
                 &:nth-child(2) {
                     .pre__ttl03 {
                         background-color: #0b96d0;
+                        font-size: 28/640 * 100vw;
                     }
                 }
             }
@@ -1486,7 +1503,7 @@ pre
                 position: relative;
                 width: 600/640 * 100vw;
                 margin: 52/640 * 100vw auto 0;
-                padding: 73/640 * 100vw 30/640 * 100vw 55/640 * 100vw;
+                padding: 73/640 * 100vw 0/640 * 100vw 55/640 * 100vw;
                 border-radius: 20/640 * 100vw;
                 box-shadow: 4.8/640 * 100vw 6.4/640 * 100vw 22.8/640 * 100vw 1.2/640 *
                     100vw rgba(135, 129, 116, 0.2);
@@ -1504,6 +1521,7 @@ pre
                 justify-content: center;
                 width: 166/640 * 100vw;
                 height: 53/640 * 100vw;
+                padding-top: 5/640 * 100vw;
                 border-radius: 20/640 * 100vw 0 5/640 * 100vw 0;
                 background-color: #3a77b4;
                 font-size: 24/640 * 100vw;
@@ -1514,6 +1532,7 @@ pre
                 margin-top: 20/640 * 100vw;
                 font-size: 26/640 * 100vw;
                 line-height: 1.73;
+                letter-spacing: 0.02em;
                 .link {
                     display: inline-block;
                     line-height: 1;
@@ -1522,7 +1541,7 @@ pre
             }
             &__img02 {
                 position: absolute;
-                bottom: -6/640 * 100vw;
+                bottom: 4/640 * 100vw;
                 right: -19/640 * 100vw;
                 width: 65/640 * 100vw;
             }
@@ -1607,7 +1626,7 @@ cta
 @media screen and (max-width: 640px) {
     .cta {
         &--bg {
-            padding: 80/640 * 100vw 0;
+            padding: 60/640 * 100vw 0;
             background: #c3da9c;
         }
         .cta {
@@ -1635,7 +1654,7 @@ cta
                 justify-content: center;
                 width: 540/640 * 100vw;
                 height: 100/640 * 100vw;
-                margin: 50/640 * 100vw auto 0;
+                margin: 40/640 * 100vw auto 0;
                 border-radius: 50/640 * 100vw;
                 box-shadow: 4.8/640 * 100vw 6.4/640 * 100vw 22.8/640 * 100vw 1.2/640 *
                     100vw rgba(135, 129, 116, 0.2);
