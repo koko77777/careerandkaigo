@@ -375,7 +375,7 @@
 								</li>
 								<li class="fea__item04">
 									<div class="fea__top02">
-										<div class="fea__icon01"><img src="img/fea_icon02.png" alt=""></div>
+										<div class="fea__icon01 fea__icon01--num02"><img src="img/fea_icon02.png" alt=""></div>
 										<p class="fea__ttl05 fea__ttl05--num02 bold">上司向け</p>
 									</div>
 									<div class="fea__low">
@@ -455,7 +455,7 @@
 				</div>
 				<div class="pre__box">
 					<div class="inner">
-						<p class="pre__circle01 white bold ta-c">専門家<br class="sp-only"><span class="small">による</span><br>相談窓口</p>
+						<p class="pre__circle01 white bold ta-c">専門家<span class="small">による</span><br class="pc-only">相談窓口</p>
 						<h3 class="pre__ttl02 bold ta-c">介護中の<strong class="big">こころの不安</strong>、<br class="sp-only">仕事と介護の<strong class="big">両立の悩み</strong>など<br><span class="medium">従業員の個別事情に寄り添います。</span></h3>
 						<ul class="pre__list">
 							<li class="pre__item">

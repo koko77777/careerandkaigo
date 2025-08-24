@@ -139,7 +139,7 @@ function slider01() {
     });
 }
 $(window).on("load resize", function () {
-    $(".scroll__wrap--num01 .simplebar-content-wrapper").scroll(function (e) {
+    $(".scroll__wrap .simplebar-content-wrapper").scroll(function (e) {
         $(".scroll__wrap .scroll__icon").fadeOut();
     });
 });
