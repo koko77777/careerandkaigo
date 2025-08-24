@@ -262,7 +262,7 @@ Responsive
     .armg_lpheader,
     .armg_main {
         .inner {
-            width: 580/640 * 100%;
+            width: 600/640 * 100%;
             margin: 0 auto;
             position: relative;
         }
@@ -277,6 +277,11 @@ Responsive
         }
         .bold {
             font-weight: 700;
+        }
+        a {
+            &.blue {
+                color: #3a77b4;
+            }
         }
     }
     img {
@@ -314,6 +319,11 @@ Responsive
         }
         .bold {
             font-weight: 700;
+        }
+        a {
+            &.blue {
+                color: #3a77b4;
+            }
         }
     }
 }
@@ -457,9 +467,6 @@ armg_main style
         transition: opacity 0.3s;
         &:hover {
             opacity: 0.7;
-        }
-        &.blue {
-            color: #3a77b4;
         }
     }
 }

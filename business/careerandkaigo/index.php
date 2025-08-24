@@ -129,7 +129,7 @@
                 <div class="mv__inner inner">
 					<div class="mv__wrap">
 						<div class="mv__left">
-							<p class="mv__lead white ta-c"><strong class="big bold">法制度以上の両立支援</strong>をお考えの<span class="bold">人事ご担当者様</span>へ</p>
+							<p class="mv__lead white ta-c"><strong class="big bold">法制度以上の両立支援</strong>をお考えの<br class="sp-only"><span class="bold">人事ご担当者様</span>へ</p>
 							<h1 class="mv__ttl01 bold">
 								<span class="txt">仕事と介護の両立を<br>ひとりひとりに合わせて支援</span>
 								<span class="img"><img src="img/mv_logo.png" alt="Career & Kaigo"></span>
@@ -150,7 +150,7 @@
 									</ul>
 								</div>
 							</div>
-							<a class="mv__btn01" href="#">お問い合わせはこちら</a>
+							<a class="mv__btn01 bold" href="#">お問い合わせはこちら</a>
 							<p class="mv__note bold">Career & Kaigoと東京海上日動ベターライフサービスと共催セミナーを開催いたしました。<br>登壇資料を入手したいかたは<a class="link blue bold" href="#">こちらをクリック</a>してお申し込みください。</p>
 						</div>
 						<div class="mv__right">
