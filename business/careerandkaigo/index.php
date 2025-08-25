@@ -47,7 +47,7 @@
 		<div class="armg_lpheader_hgroup sp-only">
         <div class="armg_lpheader_logo"> <span class="armg_lpheader_logo_detail"> 
 				<!-- LP_logo/ -->
-				<!-- <a href="#wrap" class="scroll"><img src="img/logo.webp" alt="Carrer&Baby"></a> -->
+				<a href="#wrap" class="scroll"><img src="img/cta_img01.webp" alt="Career & Kaigo"></a>
 				<!-- /LP_logo -->
 				</span> </div>
 			<div class="armg_ui_spnav">
@@ -57,61 +57,61 @@
 			</div>
 			<div class="armg_lpheader_nav">
 				<ul class="armg_lpheader_nav_list">
+					<!-- <li class="armg_lpheader_item">
+						<a class="scroll" href=""><span><img src="img/cta_img01.webp" alt="Career & Kaigo"></span></a>
+					</li> -->
 					<li class="armg_lpheader_item">
-						<a class="scroll" href=""><span>ADVANTAGE SMART CARE</span></a>
+						<a class="scroll" href="#link02"><span>ご利用ケース</span></a>
 					</li>
 					<li class="armg_lpheader_item">
-						<a class="scroll" href="#link02"><span>強み</span></a>
+						<a class="scroll" href="#link03"><span>休業者・企業さまの声</span></a>
 					</li>
 					<li class="armg_lpheader_item">
-						<a class="scroll" href="#link03"><span>料金</span></a>
+						<a class="scroll" href="#link04"><span>関連サービス</span></a>
 					</li>
 					<li class="armg_lpheader_item">
-						<a class="scroll" href="#link04"><span>機能紹介</span></a>
+						<a class="scroll" href="#link05"><span>よくある質問</span></a>
 					</li>
-					<li class="armg_lpheader_item">
-						<a class="scroll" href="#link05"><span>導入フロー</span></a>
-					</li>
-                    <li class="armg_lpheader_item">
+                    <!-- <li class="armg_lpheader_item">
 						<div class="tel">
 							<div>
 								<a href="tel:0357943830">03-5794-3830</a>
 								<p>受付時間:平日10:00~16:00</p>
 							</div>
 						</div>
-					</li>
+					</li> -->
 					<li class="armg_lpheader_item">
-						<a class="scroll armg_lpheader_cta" href="#"><span>お問い合わせ・資料請求</span></a>
+						<a class="scroll armg_lpheader_cta" href="#"><span>お問い合わせ</span></a>
 					</li>
 				</ul>	
 			</div>
 		</div>
 		<ul class="armg_lpheader_list pc-only">
 			<li class="armg_lpheader_item">
-				<a class="scroll" href=""><span>ADVANTAGE <br class="pc-only">SMART CARE</span></a>
+				<a class="scroll" href=""><span class="logo"><img src="img/cta_img01.webp" alt="Career & Kaigo"></span></a>
 			</li>
 			<li class="armg_lpheader_item">
-				<a class="scroll" href="#link02"><span>強み</span></a>
+				<a class="scroll" href="#link02"><span>ご利用ケース</span></a>
 			</li>
 			<li class="armg_lpheader_item">
-				<a class="scroll" href="#link03"><span>料金</span></a>
+				<a class="scroll" href="#link03"><span>休業者・企業さまの声</span></a>
 			</li>
 			<li class="armg_lpheader_item">
-				<a class="scroll" href="#link04"><span>機能紹介</span></a>
+				<a class="scroll" href="#link04"><span>関連サービス</span></a>
 			</li>
 			<li class="armg_lpheader_item">
-				<a class="scroll" href="#link05"><span>導入フロー</span></a>
+				<a class="scroll" href="#link05"><span>よくある質問</span></a>
 			</li>
-            <li class="armg_lpheader_item">
+            <!-- <li class="armg_lpheader_item">
                 <div class="tel">
                     <div>
                         <a href="tel:0357943830">03-5794-3830</a>
                         <p>受付時間:平日10:00~16:00</p>
                     </div>
                 </div>
-            </li>
+            </li> -->
 			<li class="armg_lpheader_item">
-				<a class="armg_lpheader_cta" href="#"><span>お問い合わせ・資料請求</span></a>
+				<a class="armg_lpheader_cta" href="#"><span>お問い合わせ</span></a>
 			</li>
 		</ul>
 	</div>
@@ -132,15 +132,15 @@
 							<p class="mv__lead white ta-c"><strong class="big bold">法制度以上の両立支援</strong>をお考えの<br class="sp-only"><span class="bold">人事ご担当者様</span>へ</p>
 							<h1 class="mv__ttl01 bold">
 								<span class="txt">仕事と介護の両立を<br>ひとりひとりに合わせて支援</span>
-								<span class="img"><img src="img/mv_logo.png" alt="Career & Kaigo"></span>
+								<span class="img"><img src="img/mv_logo.webp" alt="Career & Kaigo"></span>
 							</h1>
 							<div class="mv__box">
 								<p class="mv__top bold ta-c white"><strong class="big">悩めるすべての方</strong>に適切なサポートを。</p>
 								<div class="mv__low">
 									<div class="mv__img02">
 										<picture>
-											<source media="(max-width: 768px)" srcset="img/mv_img02_sp.png">
-											<img src="img/mv_img02.png" alt="">
+											<source media="(max-width: 768px)" srcset="img/mv_img02_sp.webp">
+											<img src="img/mv_img02.webp" alt="">
 										</picture>
 									</div>
 									<ul class="mv__list">
@@ -154,11 +154,11 @@
 							<p class="mv__note bold">Career & Kaigoと東京海上日動ベターライフサービスと共催セミナーを開催いたしました。<br>登壇資料を入手したいかたは<a class="link blue bold" href="#">こちらをクリック</a>してお申し込みください。</p>
 						</div>
 						<div class="mv__right">
-							<div class="mv__img01 pc-only"><img src="img/mv_img01.png" alt="Career & Kaigoのイメージ"></div>
+							<div class="mv__img01 pc-only"><img src="img/mv_img01.webp" alt="Career & Kaigoのイメージ"></div>
 							<div class="mv__img03">
 								<picture>
-									<source media="(max-width: 768px)" srcset="img/mv_img03_sp.png">
-									<img src="img/mv_img03.png" alt="東京海上日動ベターライフサービスと共同開発 健康経営銘柄の約45%ホワイト500の3割に当社サービスを提供 計483万人の従業員様を支援してきたアドバンテッジリスクマネジメントが提供">
+									<source media="(max-width: 768px)" srcset="img/mv_img03_sp.webp">
+									<img src="img/mv_img03.webp" alt="東京海上日動ベターライフサービスと共同開発 健康経営銘柄の約45%ホワイト500の3割に当社サービスを提供 計483万人の従業員様を支援してきたアドバンテッジリスクマネジメントが提供">
 								</picture>
 							</div>
 						</div>
@@ -180,24 +180,24 @@
 					</h2>
 					<ul class="had__list">
 						<li class="had__item">
-							<div class="had__img01 had__img01--num01"><img src="img/had_img01.png" alt=""></div>
+							<div class="had__img01 had__img01--num01"><img src="img/had_img01.webp" alt=""></div>
 							<p class="had__txt01 bold ta-c">改正・育児介護休業法による<br>仕事と介護の両立支援の強化</p>
 						</li>
 						<li class="had__item">
 							<p class="had__comment white ta-c bold">法定以上の<br>運用が<br>求められる</p>
-							<div class="had__img01 had__img01--num02"><img src="img/had_img02.png" alt=""></div>
+							<div class="had__img01 had__img01--num02"><img src="img/had_img02.webp" alt=""></div>
 							<p class="had__txt01 bold ta-c">健康経営度調査票でも<br>介護に関する評価項目あり</p>
 						</li>
 						<li class="had__item">
-							<div class="had__img01 had__img01--num03"><img src="img/had_img03.png" alt=""></div>
+							<div class="had__img01 had__img01--num03"><img src="img/had_img03.webp" alt=""></div>
 							<p class="had__txt01 bold ta-c">経産省による<br class="pc-only">経営者向け<br class="sp-only">ガイドラインの公表</p>
 						</li>
 					</ul>
 					<h3 class="had__ttl02 ta-c bold"><span class="green">個々に異なる介護事情を<br class="sp-only">どこまで支援すべきか</span>など<br>人事担当者は難しい判断を迫られています。</h3>
 					<div class="had__img02">
 						<picture>
-							<source media="(max-width: 768px)" srcset="img/had_img04_sp.png">
-							<img src="img/had_img04.png" alt="そもそも相談されても、社内には介護に詳しい人がいないので分からない 仕事をしながら介護することを前提としたサポートを探している 介護相談はどれも状況がバラバラで適切なフォローが難しい">
+							<source media="(max-width: 768px)" srcset="img/had_img04_sp.webp">
+							<img src="img/had_img04.webp" alt="そもそも相談されても、社内には介護に詳しい人がいないので分からない 仕事をしながら介護することを前提としたサポートを探している 介護相談はどれも状況がバラバラで適切なフォローが難しい">
 						</picture>
 					</div>
 				</div>
@@ -213,8 +213,8 @@
 					</h2>
 					<div class="inf__img01">
 						<picture>
-							<source media="(max-width: 768px)" srcset="img/inf_img01_sp.png">
-							<img src="img/inf_img01.png" alt="男女別の主な介護者の年齢分布">
+							<source media="(max-width: 768px)" srcset="img/inf_img01_sp.webp">
+							<img src="img/inf_img01.webp" alt="男女別の主な介護者の年齢分布">
 						</picture>
 					</div>
 				</div>
@@ -226,7 +226,7 @@
 				<div class="imp__inner inner">
 					<div class="cta__box">
                         <h2 class="cta__ttl01 bold ta-c">従業員の状況に合わせた<br class="sp-only"><strong class="big">仕事と介護の両立支援</strong>を提供する</h2>
-                        <div class="cta__img01"><img src="img/cta_img01.png" alt="Career & Kaigo"></div>
+                        <div class="cta__img01"><img src="img/cta_img01.webp" alt="Career & Kaigo"></div>
                         <a class="cta__btn01 white bold" href="#">お問い合わせはこちら</a>
                     </div>
                     <h2 class="imp__ttl01 bold ta-c">
@@ -235,8 +235,8 @@
 					</h2>
 					<div class="imp__img01">
 						<picture>
-							<source media="(max-width: 768px)" srcset="img/imp_img01_sp.png">
-							<img src="img/imp_img01.png" alt="課題の発見 適切な支援の実施">
+							<source media="(max-width: 768px)" srcset="img/imp_img01_sp.webp">
+							<img src="img/imp_img01.webp" alt="課題の発見 適切な支援の実施">
 						</picture>
 					</div>
 					<div class="imp__box">
@@ -253,13 +253,13 @@
                                     </div>
                                     <div class="imp__img02">
                                         <picture>
-                                            <source media="(max-width: 768px)" srcset="img/imp_img03_sp.png">
-                                            <img src="img/imp_img03.png" alt="アドバンテッジリスクマネジメントであらゆる課題を解決！">
+                                            <source media="(max-width: 768px)" srcset="img/imp_img03_sp.webp">
+                                            <img src="img/imp_img03.webp" alt="アドバンテッジリスクマネジメントであらゆる課題を解決！">
                                         </picture>
                                     </div>
                                 </div>
                                 <a class="imp__btn01" href="#"><span class="txt white bold">人事領域の課題を解決するサービスはこちら</span></a>
-                                <div class="imp__img03"><img src="img/cta_img01.png" alt="Career & Kaigo"></div>
+                                <div class="imp__img03"><img src="img/cta_img01.webp" alt="Career & Kaigo"></div>
                             </div>
 						</div>
 					</div>
@@ -272,7 +272,7 @@
 				<div class="cta__inner inner">
                     <div class="cta__box">
                         <h2 class="cta__ttl01 bold ta-c">従業員の状況に合わせた<br class="sp-only"><strong class="big">仕事と介護の両立支援</strong>を提供する</h2>
-                        <div class="cta__img01"><img src="img/cta_img01.png" alt="Career & Kaigo"></div>
+                        <div class="cta__img01"><img src="img/cta_img01.webp" alt="Career & Kaigo"></div>
                         <a class="cta__btn01 white bold" href="#">お問い合わせはこちら</a>
                     </div>
 				</div>
@@ -280,7 +280,7 @@
 			<!-- cta -->
 			
 
-			<section class="fea fea--bg">
+			<section class="fea fea--bg" id="link02">
 				<div class="fea__inner inner">
 					<p class="fea__lead01 bold"><strong class="big">人事・従業員・上司</strong>の<br class="sp-only"><span class="num quick green">3</span>方向の安心を実現</p>
                     <h2 class="fea__ttl01 bold ta-c">心理的安心感を高め、<br><strong class="big green">相談しやすい<br class="sp-only">組織風土への変化</strong>を支援</h2>
@@ -293,31 +293,31 @@
 									<h3 class="fea__ttl02 bold blue">課題発見と対処</h3>
 									<h4 class="fea__ttl03 bold">介護者の介護や<br class="sp-only">仕事への不安や課題を解消。<br><span class="blue">心身の状態をしっかり可視化し、<br>最適な打ち手をご提案。</span></h4>
 								</div>
-								<div class="fea__img01"><img src="img/fea_img01.png" alt="課題発見と対処のイメージ"></div>
+								<div class="fea__img01"><img src="img/fea_img01.webp" alt="課題発見と対処のイメージ"></div>
 							</div>
-							<p class="fea__comment01 white bold ta-c">こころの健康状態とワークライフバランスを可視化し、適切な対処を実現。</p>
+							<p class="fea__comment01 white bold ta-c">こころの健康状態と<br class="sp-only">ワークライフバランスを可視化し、<br class="sp-only">適切な対処を実現。</p>
 							<div class="fea__box">
 								<p class="fea__ttl04 bold ta-c">介護の負担感の可視化から<br class="sp-only">両立計画の立案までの流れ</p>
 								<div class="fea__img02">
 									<picture>
-										<source media="(max-width: 768px)" srcset="img/fea_img04_sp.png">
-										<img src="img/fea_img04.png" alt="介護の負担感の可視化から両立計画の立案までの流れ">
+										<source media="(max-width: 768px)" srcset="img/fea_img04_sp.webp">
+										<img src="img/fea_img04.webp" alt="介護の負担感の可視化から両立計画の立案までの流れ">
 									</picture>
 								</div>
 							</div>
-							<p class="fea__ttl07 bold">3つのセルフチェックが、<br class="sp-only">休業前～両立期の従業員の<br class="sp-only">心身の状態を見える化。</p>
+							<p class="fea__ttl07 fea__ttl07--num01 bold">3つのセルフチェックが、<br class="sp-only">休業前～両立期の従業員の<br class="sp-only">心身の状態を見える化。</p>
 							<div class="fea__box">
 								<div class="fea__flex">
-									<div class="fea__flex__img"><img src="img/fea_img05.png" alt="3つのセルフチェック"></div>
-									<p class="fea__flex__txt bold">3つのセルフチェックの結果からくる上司向けの<br class="pc-only">コメントによって、<br class="sp-only">従業員への具体的で本質的な声掛けができ、<br class="pc-only">本人の不安を軽減させることに役立ちます。</p>
+									<div class="fea__flex__img"><img src="img/fea_img05.webp" alt="3つのセルフチェック"></div>
+									<p class="fea__flex__txt bold">3つのセルフチェックの結果からくる上司向けの<br class="pc-only">コメントによって、従業員への具体的で本質的な声掛けができ、<br class="pc-only">本人の不安を軽減させることに役立ちます。</p>
 								</div>
 								<p class="fea__txt01">
 									<strong class="big bold">介護の負担感アンケート<span class="small">（独自開発）</span>とは</strong>
 									介護が始まるタイミングで、直面する介護の負担を測定します。​<br>介護の負担を把握することで、今後の仕事との両立計画に役立てることができます。</p>
 								<div class="fea__img03">
 									<picture>
-										<source media="(max-width: 768px)" srcset="img/fea_img06_sp.png">
-										<img src="img/fea_img06.png" alt="介護の負担感アンケートの例">
+										<source media="(max-width: 768px)" srcset="img/fea_img06_sp.webp">
+										<img src="img/fea_img06.webp" alt="介護の負担感アンケートの例">
 									</picture>
 								</div>
 								<p class="fea__txt01"><strong class="big bold">SWING-J、WHO-5とは</strong></p>
@@ -326,7 +326,7 @@
 										<div class="fea__wrap">
 											<p class="fea__txt02 ta-c bold">ワークライフバランスに関する設問<span class="small">（SWING-J）</span></p>
 											<div class="fea__box02">
-												<div class="fea__img04"><img src="img/fea_img07.png" alt=""></div>
+												<div class="fea__img04"><img src="img/fea_img07.webp" alt=""></div>
 												<p class="fea__txt03">家庭・仕事のそれぞれの影響とその課題を可視化し、課題に即した研修動画を提供。</p>
 											</div>
 										</div>
@@ -336,7 +336,7 @@
 										<div class="fea__wrap">
 											<p class="fea__txt02 ta-c bold">こころの健康状態<span class="small">（WHO=5）</span></p>
 											<div class="fea__box02">
-												<div class="fea__img04"><img src="img/fea_img08.png" alt=""></div>
+												<div class="fea__img04"><img src="img/fea_img08.webp" alt=""></div>
 												<p class="fea__txt03">こころの健康状態を可視化し、一定の基準を下回った場合、カウンセリングを促すメールが届く。</p>
 											</div>
 										</div>
@@ -353,18 +353,23 @@
 									<h3 class="fea__ttl02 bold blue">ノウハウ研修動画</h3>
 									<h4 class="fea__ttl03 bold">介護者本人が抱える<span class="blue">内面的な<br class="sp-only">不安や課題を<br class="pc-only">解決するノウハウ<br class="sp-only">や、上司のマネジメント<br class="pc-only">スキルを向上させるノウハウ</span>を提供。</h4>
 								</div>
-								<div class="fea__img01"><img src="img/fea_img02.png" alt="ノウハウ研修動画のイメージ"></div>
+								<div class="fea__img01"><img src="img/fea_img02.webp" alt="ノウハウ研修動画のイメージ"></div>
 							</div>
-							<p class="fea__ttl07 bold">セルフチェック結果から見える化された、介護者本人が抱えるさまざまな課題を、<br class="pc-only">解決支援するノウハウ研修動画をレコメンド。<br>スキマ時間に、いつでも動画で研修を受けられる。</p>
-							<p class="fea__comment01 white bold ta-c">介護者本人・上司に向けた研修動画</p>
+							<p class="fea__ttl07 bold">セルフチェック結果から見える化された、介護者本人が抱えるさまざまな課題を、<br class="pc-only">解決支援するノウハウ研修動画をレコメンド。<br>スキマ時間に、いつでも動画で<br class="sp-only">研修を受けられる。</p>
+							<p class="fea__comment01 white bold ta-c">介護者本人・上司に向けた<br class="sp-only">研修動画</p>
 							<ul class="fea__list04">
 								<li class="fea__item04">
 									<div class="fea__top02">
-										<div class="fea__icon01"><img src="img/fea_icon01.png" alt=""></div>
+										<div class="fea__icon01"><img src="img/fea_icon01.webp" alt=""></div>
 										<p class="fea__ttl05 bold">仕事と介護を両立したい<br>従業員向け</p>
 									</div>
 									<div class="fea__low">
-										<div class="fea__icon02"><img src="img/fea_icon03.png" alt=""></div>
+										<div class="fea__icon02">
+											<picture>
+												<source media="(max-width: 768px)" srcset="img/fea_icon03_sp.webp">
+												<img src="img/fea_icon03.webp" alt="">
+											</picture>
+										</div>
 										<ul class="fea__list05">
 											<li class="fea__item05">仕事と介護の両立に向けて<br>知っておきたいこと</li>
 											<li class="fea__item05">事前に確認しておきたい親の介護費用​</li>
@@ -375,11 +380,11 @@
 								</li>
 								<li class="fea__item04">
 									<div class="fea__top02">
-										<div class="fea__icon01 fea__icon01--num02"><img src="img/fea_icon02.png" alt=""></div>
+										<div class="fea__icon01 fea__icon01--num02"><img src="img/fea_icon02.webp" alt=""></div>
 										<p class="fea__ttl05 fea__ttl05--num02 bold">上司向け</p>
 									</div>
 									<div class="fea__low">
-										<div class="fea__icon02 fea__icon02--num02"><img src="img/fea_icon04.png" alt=""></div>
+										<div class="fea__icon02 fea__icon02--num02"><img src="img/fea_icon04.webp" alt=""></div>
 										<ul class="fea__list05">
 											<li class="fea__item05 fea__item05--num02">仕事と介護の両立のための制度</li>
 											<li class="fea__item05 fea__item05--num02">部下のやる気を引き出すマネジメント</li>
@@ -392,18 +397,18 @@
 						<li class="fea__item">
 							<div class="fea__top">
 								<div class="fea__info">
-									<p class="fea__num01 white bold ta-c">特長<span class="num babes">01</span></p>
+									<p class="fea__num01 white bold ta-c">特長<span class="num babes">03</span></p>
 									<p class="fea__en01 quick blue">Follow-up according to the situation</p>
-									<h3 class="fea__ttl02 bold blue">状況に合わせたフォロー</h3>
+									<h3 class="fea__ttl02 bold blue">状況に合わせた<br class="sp-only">フォロー</h3>
 									<h4 class="fea__ttl03 bold">介護者の抱えるさまざまな不安や<br class="sp-only">悩みを<br class="pc-only"><span class="blue">適切にフォローする体制を<br class="sp-only">形成し、<br class="pc-only">介護者の孤立を防止。</span></h4>
 								</div>
-								<div class="fea__img01"><img src="img/fea_img03.png" alt="状況に合わせたフォローのイメージ"></div>
+								<div class="fea__img01"><img src="img/fea_img03.webp" alt="状況に合わせたフォローのイメージ"></div>
 							</div>
 							<p class="fea__ttl07 bold">関連機能</p>
 							<ul class="fea__list06">
 								<li class="fea__item06">
 									<div class="fea__left">
-										<div class="fea__icon03"><img src="img/fea_icon05.png" alt=""></div>
+										<div class="fea__icon03"><img src="img/fea_icon05.webp" alt=""></div>
 									</div>
 									<div class="fea__right">
 										<p class="fea__ttl06 bold">相談窓口</p>
@@ -413,26 +418,26 @@
 								</li>
 								<li class="fea__item06">
 									<div class="fea__left">
-										<div class="fea__icon03"><img src="img/fea_icon06.png" alt=""></div>
+										<div class="fea__icon03"><img src="img/fea_icon06.webp" alt=""></div>
 									</div>
 									<div class="fea__right">
-										<p class="fea__ttl06 bold">介護者本人の<br>状況に合わせた研修動画の配信</p>
+										<p class="fea__ttl06 bold">介護者本人の<br class="pc-only">状況に<br class="sp-only">合わせた研修動画の配信</p>
 									</div>
 								</li>
 								<li class="fea__item06">
 									<div class="fea__left">
-										<div class="fea__icon03"><img src="img/fea_icon07.png" alt=""></div>
+										<div class="fea__icon03"><img src="img/fea_icon07.webp" alt=""></div>
 									</div>
 									<div class="fea__right">
-										<p class="fea__ttl06 bold">部下の両立状況に応じた、<br>対応ノウハウ</p>
+										<p class="fea__ttl06 bold">部下の両立状況に<br class="sp-only">応じた、<br class="pc-only">対応ノウハウ</p>
 									</div>
 								</li>
 								<li class="fea__item06">
 									<div class="fea__left">
-										<div class="fea__icon03"><img src="img/fea_icon08.png" alt=""></div>
+										<div class="fea__icon03"><img src="img/fea_icon08.webp" alt=""></div>
 									</div>
 									<div class="fea__right">
-										<p class="fea__ttl06 bold">会社と休業者をつなぐチャット機能</p>
+										<p class="fea__ttl06 bold">会社と休業者をつなぐ<br class="sp-only">チャット機能</p>
 									</div>
 								</li>
 							</ul>
@@ -448,8 +453,8 @@
                     <h2 class="pre__ttl01 bold ta-c">「メンタル」「介護」について<br><strong class="big green">専門家に相談できる窓口</strong><br class="sp-only">もご用意</h2>
 					<div class="pre__img01">
 						<picture>
-							<source media="(max-width: 768px)" srcset="img/pre_img01_sp.png">
-							<img src="img/pre_img01.png" alt="不安要素のイメージ">
+							<source media="(max-width: 768px)" srcset="img/pre_img01_sp.webp">
+							<img src="img/pre_img01.webp" alt="不安要素のイメージ">
 						</picture>
 					</div>
 				</div>
@@ -462,7 +467,7 @@
 								<p class="pre__comment01 white bold ta-c">標準<br>搭載</p>
 								<p class="pre__ttl03 white bold ta-c">メンタルケアの専門家</p>
 								<div class="pre__low">
-									<div class="pre__logo01"><img src="img/pre_img02.png" alt="アドバンテッジリスクマネジメント"></div>
+									<div class="pre__logo01"><img src="img/pre_img02.webp" alt="アドバンテッジリスクマネジメント"></div>
 								</div>
 								<p class="pre__txt01 bold ta-c">メンタルの情報提供・相談窓口</p>
 							</li>
@@ -470,7 +475,7 @@
 								<p class="pre__comment01 white bold ta-c">別途<br>契約</p>
 								<p class="pre__ttl03 white bold ta-c">介護の専門家</p>
 								<div class="pre__low">
-									<div class="pre__logo02"><img src="img/pre_img03.png" alt="東京海上日動ベターライフサービス"></div>
+									<div class="pre__logo02"><img src="img/pre_img03.webp" alt="東京海上日動ベターライフサービス"></div>
 								</div>
 								<p class="pre__txt01 bold ta-c">WEB介護相談/介護コミュニティ運営支援<br>産業ケアマネジャー個別相談</p>
 							</li>
@@ -480,16 +485,16 @@
 				<div class="pre__box02">
 					<div class="inner">
 						<p class="pre__comment02 white quick">Pick Up</p>
-						<div class="pre__logo03"><img src="img/pre_img04.png" alt="Career & Kaigo 東京海上日動ベターライフサービス"></div>
+						<div class="pre__logo03"><img src="img/pre_img04.webp" alt="Career & Kaigo 東京海上日動ベターライフサービス"></div>
 						<p class="pre__txt02 bold ta-c">Career & Kaigoと<br class="sp-only">東京海上日動ベターライフサービスと<br class="sp-only">共催セミナーを開催いたしました。<br>登壇資料を入手したいかたは<br class="sp-only"><a class="link bold blue" href="#">こちらをクリック</a>してお申し込みください。</p>
-						<div class="pre__img02"><img src="img/pre_img05.png" alt=""></div>
+						<div class="pre__img02"><img src="img/pre_img05.webp" alt=""></div>
 					</div>
 				</div>
 			</section>
 			<!-- pre -->
 
 
-			<section class="sol sol--bg">
+			<section class="sol sol--bg" id="link03">
 				<div class="sol__inner inner">
                     <h2 class="sol__ttl01 bold ta-c">こんな課題を解決します</h2>
 					<div class="sol__slider">
@@ -504,7 +509,7 @@
 							<ul class="sol__list01 swiper-wrapper swiper-wrapper01">
 								<li class="sol__item01 swiper-slide">
 									<div class="sol__top">
-										<div class="sol__icon01"><img src="img/sol_icon01.png" alt=""></div>
+										<div class="sol__icon01"><img src="img/sol_icon01.webp" alt=""></div>
 										<p class="sol__lead bold white">課題<span class="num babes">01</span>：人事の課題</p>
 										<ul class="sol__list02">
 											<li class="sol__item02 white bold">これから取り組む仕事と介護の両立支援、どうせやるなら意味のある支援にしたい</li>
@@ -522,16 +527,16 @@
 								</li>
 								<li class="sol__item01 swiper-slide">
 									<div class="sol__top">
-										<div class="sol__icon01"><img src="img/sol_icon02.png" alt=""></div>
+										<div class="sol__icon01"><img src="img/sol_icon02.webp" alt=""></div>
 										<p class="sol__lead bold white">課題<span class="num babes">02</span>：上司の課題</p>
 										<ul class="sol__list02">
 											<li class="sol__item02 white bold">相談されても…正直、どう答えたらいいか分からない</li>
-											<li class="sol__item02 white bold">介護が始まったら、どれくらい休むんだろう…<br>業務、回せるかな</li>
+											<li class="sol__item02 white bold">介護が始まったら、どれくらい休むんだろう…<br class="pc-only">業務、回せるかな</li>
 										</ul>
 									</div>
 									<div class="sol__low">
 										<p class="sol__lead02 white bold">Career&Kaigoで解決！</p>
-										<h3 class="sol__ttl02 bold">介護支援、はじめの一歩も、次の一歩も。<br>「Career & Kaigo」で、両立支援がスムーズに始められます。</h3>
+										<h3 class="sol__ttl02 bold">介護支援、はじめの一歩も、<br class="sp-only">次の一歩も。<br>「Career & Kaigo」で、両立支援がスムーズに始められます。</h3>
 										<p class="sol__txt01">
                                             上司に介護の経験がなくても大丈夫。研修動画で、部下の両立を支援するために必要な知識や関わり方を事前に学べます。さらに、介護負担のアンケート結果やセルフチェック（SWING-J・WHO-5）をもとに、部下の状態に合った“声のかけ方”をアドバイス。面談や日々のフォローで、社員の安心感やモチベーション向上にもつながります。
 										</p>
@@ -539,7 +544,7 @@
 								</li>
 								<li class="sol__item01 swiper-slide">
 									<div class="sol__top">
-										<div class="sol__icon01"><img src="img/sol_icon03.png" alt=""></div>
+										<div class="sol__icon01"><img src="img/sol_icon03.webp" alt=""></div>
 										<p class="sol__lead bold white">課題<span class="num babes">03</span>：従業員の課題</p>
 										<ul class="sol__list02">
 											<li class="sol__item02 white bold">身内のことを上司に話すのって、やっぱり気を遣う…。</li>
@@ -548,9 +553,9 @@
 									</div>
 									<div class="sol__low">
 										<p class="sol__lead02 white bold">Career&Kaigoで解決！</p>
-										<h3 class="sol__ttl02 bold">従業員が不安を抱え込まないように。<br>「Career & Kaigo」なら、従業員が抱える不安に対して、<br>人事としてできる、一人ひとりに個別最適なサポートを。</h3>
+										<h3 class="sol__ttl02 bold">従業員が不安を抱え込まないように。<br>「Career & Kaigo」なら、従業員が抱える不安に対して、<br class="pc-only">人事としてできる、一人ひとりに個別最適なサポートを。</h3>
 										<p class="sol__txt01">
-                                            介護や将来への不安には相談窓口や研修動画を通じて、心のケアや介護の専門家にる相談対応を受けられます。さらに、「負担感セルフチェック」などで介護に関する予測をおこない、キャリアの見通しを持てるよう支援します。<br>また<a class="link blue bold" href="#">HARMONY</a>と併せて利用することで両立支援制度や法律の理解をしっかりと後押しします。
+                                            介護や将来への不安には相談窓口や研修動画を通じて、心のケアや介護の専門家にる相談対応を受けられます。さらに、「負担感セルフチェック」などで介護に関する予測をおこない、キャリアの見通しを持てるよう支援します。<br>また<a class="link blue bold" href="https://www.armg.jp/business/advantage-harmony/">HARMONY</a>と併せて利用することで両立支援制度や法律の理解をしっかりと後押しします。
 										</p>
 									</div>
 								</li>
@@ -570,7 +575,7 @@
 				<div class="cta__inner inner">
                     <div class="cta__box">
                         <h2 class="cta__ttl01 bold ta-c">従業員の状況に合わせた<br class="sp-only"><strong class="big">仕事と介護の両立支援</strong>を提供する</h2>
-                        <div class="cta__img01"><img src="img/cta_img01.png" alt="Career & Kaigo"></div>
+                        <div class="cta__img01"><img src="img/cta_img01.webp" alt="Career & Kaigo"></div>
                         <a class="cta__btn01 white bold" href="#">お問い合わせはこちら</a>
                     </div>
 				</div>
@@ -578,50 +583,50 @@
 			<!-- cta -->
 
 
-			<section class="oth oth--bg">
+			<section class="oth oth--bg" id="link04">
 				<div class="oth__inner inner">
-                    <h2 class="oth__ttl01 bold ta-c">そのほか、<span class="medium">休業者をサポートするサービスも充実</span></h2>
+                    <h2 class="oth__ttl01 bold ta-c">そのほか、<br class="sp-only"><span class="medium">休業者をサポートする<br class="sp-only">サービスも充実</span></h2>
 					<ul class="oth__list">
 						<li class="oth__item oth__item--num01">
 							<div class="oth__img01">
 								<picture>
-									<source media="(max-width: 768px)" srcset="img/oth_img01_sp.png">
-									<img src="img/oth_img01.png" alt="Career & Baby（キャリア＆ベビー）">
+									<source media="(max-width: 768px)" srcset="img/oth_img01_sp.webp">
+									<img src="img/oth_img01.webp" alt="Career & Baby（キャリア＆ベビー）">
 								</picture>
 							</div>
 							<div class="oth__box">
 								<p class="oth__lead bold ta-c">妊娠期から職場復帰後まで一貫したサポート</p>
 								<h3 class="oth__ttl02 ta-c bold green">Career & Baby（キャリア＆ベビー）</h3>
 								<p class="oth__txt01">仕事と育児を両立する社員のセルフケア支援や<br class="pc-only">コミュニケーション機能などで、<br class="pc-only">組織の両立体制を強化します。</p>
-								<a class="oth__btn01" href="#">詳しくはこちら</a>
+								<a class="oth__btn01" href="https://www.armg.jp/business/careerandbaby/">詳しくはこちら</a>
 							</div>
 						</li>
 						<li class="oth__item">
 							<div class="oth__img01">
 								<picture>
-									<source media="(max-width: 768px)" srcset="img/oth_img02_sp.png">
-									<img src="img/oth_img02.png" alt="Career & Baby（キャリア＆ベビー）">
+									<source media="(max-width: 768px)" srcset="img/oth_img02_sp.webp">
+									<img src="img/oth_img02.webp" alt="Career & Baby（キャリア＆ベビー）">
 								</picture>
 							</div>
 							<div class="oth__box">
 								<p class="oth__lead bold ta-c">休業中の従業員と会社を繋ぐクラウドサービス</p>
 								<h3 class="oth__ttl02 ta-c bold green">ADVANTAGE HARMONY<br>（アドバンテッジハーモニー）</h3>
 								<p class="oth__txt01">休業している従業員を一括管理するクラウドサービス。管理手法や休業者とのコミュニケーションを統一することで、管理から円滑な職場復帰まで安心の支援体制を構築します。</p>
-								<a class="oth__btn01" href="#">詳しくはこちら</a>
+								<a class="oth__btn01" href="https://www.armg.jp/business/advantage-harmony/">詳しくはこちら</a>
 							</div>
 						</li>
 						<li class="oth__item">
 							<div class="oth__img01">
 								<picture>
-									<source media="(max-width: 768px)" srcset="img/oth_img03_sp.png">
-									<img src="img/oth_img03.png" alt="Career & Baby（キャリア＆ベビー）">
+									<source media="(max-width: 768px)" srcset="img/oth_img03_sp.webp">
+									<img src="img/oth_img03.webp" alt="Career & Baby（キャリア＆ベビー）">
 								</picture>
 							</div>
 							<div class="oth__box">
 								<p class="oth__lead bold ta-c">心身の状態を「見える化」オンライン復職支援</p>
 								<h3 class="oth__ttl02 ta-c bold green">復職支援プログラム eRework<br>（イーリワーク）</h3>
 								<p class="oth__txt01">「認知行動理論」をベースとした研修動画と再発防止のためのワークやGPSを活用した移動訓練等で多角的に現在の状態をスコア化します。</p>
-								<a class="oth__btn01" href="#">詳しくはこちら</a>
+								<a class="oth__btn01" href="https://www.armg.jp/business/e-rework/">詳しくはこちら</a>
 							</div>
 						</li>
 					</ul>
@@ -635,8 +640,8 @@
                     <h2 class="flo__ttl01 bold ta-c">運用開始までのフロー</h2>
 					<div class="flo__img01">
 						<picture>
-							<source media="(max-width: 768px)" srcset="img/flo_img01_sp.png">
-							<img src="img/flo_img01.png" alt="運用開始までのフローのイメージ">
+							<source media="(max-width: 768px)" srcset="img/flo_img01_sp.webp">
+							<img src="img/flo_img01.webp" alt="運用開始までのフローのイメージ">
 						</picture>
 					</div>
 				</div>
@@ -644,7 +649,7 @@
 			<!-- flo -->
 
 
-            <section class="faq faq--bg">
+            <section class="faq faq--bg" id="link05">
                 <div class="faq__inner inner">
                     <h2 class="faq__ttl01 bold ta-c">よくある質問</h2>
                     <ul class="faq__list">
@@ -693,7 +698,7 @@
 				<div class="cta__inner inner">
                     <div class="cta__box">
                         <h2 class="cta__ttl01 bold ta-c">従業員の状況に合わせた<br class="sp-only"><strong class="big">仕事と介護の両立支援</strong>を提供する</h2>
-                        <div class="cta__img01"><img src="img/cta_img01.png" alt="Career & Kaigo"></div>
+                        <div class="cta__img01"><img src="img/cta_img01.webp" alt="Career & Kaigo"></div>
                         <a class="cta__btn01 white bold" href="#">お問い合わせはこちら</a>
                     </div>
 				</div>
