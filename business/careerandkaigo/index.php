@@ -81,7 +81,7 @@
 						</div>
 					</li> -->
 					<li class="armg_lpheader_item">
-						<a class="scroll armg_lpheader_cta" href="#"><span>お問い合わせ</span></a>
+						<a class="scroll armg_lpheader_cta" href="https://form.armg.jp/entr/cont/chmy-hmy-00366"><span>お問い合わせ</span></a>
 					</li>
 				</ul>	
 			</div>
@@ -111,7 +111,7 @@
                 </div>
             </li> -->
 			<li class="armg_lpheader_item">
-				<a class="armg_lpheader_cta" href="#"><span>お問い合わせ</span></a>
+				<a class="armg_lpheader_cta" href="https://form.armg.jp/entr/cont/chmy-hmy-00366"><span>お問い合わせ</span></a>
 			</li>
 		</ul>
 	</div>
@@ -150,8 +150,8 @@
 									</ul>
 								</div>
 							</div>
-							<a class="mv__btn01 bold" href="#">お問い合わせはこちら</a>
-							<p class="mv__note bold">Career & Kaigoと東京海上日動ベターライフサービスと共催セミナーを開催いたしました。<br>登壇資料を入手したいかたは<a class="link blue bold" href="#">こちらをクリック</a>してお申し込みください。</p>
+							<a class="mv__btn01 bold" href="https://form.armg.jp/entr/cont/chmy-hmy-00366">お問い合わせはこちら</a>
+							<p class="mv__note bold">Career & Kaigoと東京海上日動ベターライフサービスと共催セミナーを開催いたしました。<br>登壇資料を入手したいかたは<a class="link blue bold" href="https://form.armg.jp/entr/down/chmy-cak-00473">こちらをクリック</a>してお申し込みください。</p>
 						</div>
 						<div class="mv__right">
 							<div class="mv__img01 pc-only"><img src="img/mv_img01.webp" alt="Career & Kaigoのイメージ"></div>
@@ -227,7 +227,7 @@
 					<div class="cta__box">
                         <h2 class="cta__ttl01 bold ta-c">従業員の状況に合わせた<br class="sp-only"><strong class="big">仕事と介護の両立支援</strong>を提供する</h2>
                         <div class="cta__img01"><img src="img/cta_img01.webp" alt="Career & Kaigo"></div>
-                        <a class="cta__btn01 white bold" href="#">お問い合わせはこちら</a>
+                        <a class="cta__btn01 white bold" href="https://form.armg.jp/entr/cont/chmy-hmy-00366">お問い合わせはこちら</a>
                     </div>
                     <h2 class="imp__ttl01 bold ta-c">
 						<span class="lead"><strong class="big">重要</strong>なのは</span>
@@ -258,7 +258,7 @@
                                         </picture>
                                     </div>
                                 </div>
-                                <a class="imp__btn01" href="#"><span class="txt white bold">人事領域の課題を解決するサービスはこちら</span></a>
+                                <a class="imp__btn01" href="https://www.armg.jp/business/advantage-harmony/"><span class="txt white bold">人事領域の課題を解決するサービスはこちら</span></a>
                                 <div class="imp__img03"><img src="img/cta_img01.webp" alt="Career & Kaigo"></div>
                             </div>
 						</div>
@@ -273,7 +273,7 @@
                     <div class="cta__box">
                         <h2 class="cta__ttl01 bold ta-c">従業員の状況に合わせた<br class="sp-only"><strong class="big">仕事と介護の両立支援</strong>を提供する</h2>
                         <div class="cta__img01"><img src="img/cta_img01.webp" alt="Career & Kaigo"></div>
-                        <a class="cta__btn01 white bold" href="#">お問い合わせはこちら</a>
+                        <a class="cta__btn01 white bold" href="https://form.armg.jp/entr/cont/chmy-hmy-00366">お問い合わせはこちら</a>
                     </div>
 				</div>
 			</section>
@@ -486,7 +486,7 @@
 					<div class="inner">
 						<p class="pre__comment02 white quick">Pick Up</p>
 						<div class="pre__logo03"><img src="img/pre_img04.webp" alt="Career & Kaigo 東京海上日動ベターライフサービス"></div>
-						<p class="pre__txt02 bold ta-c">Career & Kaigoと<br class="sp-only">東京海上日動ベターライフサービスと<br class="sp-only">共催セミナーを開催いたしました。<br>登壇資料を入手したいかたは<br class="sp-only"><a class="link bold blue" href="#">こちらをクリック</a>してお申し込みください。</p>
+						<p class="pre__txt02 bold ta-c">Career & Kaigoと<br class="sp-only">東京海上日動ベターライフサービスと<br class="sp-only">共催セミナーを開催いたしました。<br>登壇資料を入手したいかたは<br class="sp-only"><a class="link bold blue" href="https://form.armg.jp/entr/down/chmy-cak-00473">こちらをクリック</a>してお申し込みください。</p>
 						<div class="pre__img02"><img src="img/pre_img05.webp" alt=""></div>
 					</div>
 				</div>
@@ -576,7 +576,7 @@
                     <div class="cta__box">
                         <h2 class="cta__ttl01 bold ta-c">従業員の状況に合わせた<br class="sp-only"><strong class="big">仕事と介護の両立支援</strong>を提供する</h2>
                         <div class="cta__img01"><img src="img/cta_img01.webp" alt="Career & Kaigo"></div>
-                        <a class="cta__btn01 white bold" href="#">お問い合わせはこちら</a>
+                        <a class="cta__btn01 white bold" href="https://form.armg.jp/entr/cont/chmy-hmy-00366">お問い合わせはこちら</a>
                     </div>
 				</div>
 			</section>
@@ -656,7 +656,7 @@
                         <li class="faq__item">
                             <dl class="faq__dl">
                                 <dt class="faq__dt bold"><p class="txt">（2025年施行の改正法で求められる）介護に直面する前の早い段階（40 歳等）での<br class="pc-only">情報提供に対する情報提供や介護に直面した社員への個別周知等を行うことはできますか？</p></dt>
-                                <dd class="faq__dd">ADVANTAGE HARMONY（アドバンテッジ ハーモニー）でご提供しており、Career & Kaigoと併せてご利用いただくことが可能です。<br>ADVANTAGE HARMONYのお問い合わせは<a class="link blue bold" href="#">こちら</a></dd>
+                                <dd class="faq__dd">ADVANTAGE HARMONY（アドバンテッジ ハーモニー）でご提供しており、Career & Kaigoと併せてご利用いただくことが可能です。<br>ADVANTAGE HARMONYのお問い合わせは<a class="link blue bold" href="https://www.armg.jp/business/advantage-harmony/">こちら</a></dd>
                             </dl>
                         </li>
                         <li class="faq__item">
@@ -680,7 +680,7 @@
                         <li class="faq__item">
                             <dl class="faq__dl">
                                 <dt class="faq__dt bold"><p class="txt">価格を教えてください。</p></dt>
-                                <dd class="faq__dd">個別のお見積とさせていただいておりますので、詳しくはお問い合わせください。<br>お問い合わせは<a class="link blue bold" href="#">こちら</a></dd>
+                                <dd class="faq__dd">個別のお見積とさせていただいておりますので、詳しくはお問い合わせください。<br>お問い合わせは<a class="link blue bold" href="https://form.armg.jp/entr/cont/chmy-hmy-00366">こちら</a></dd>
                             </dl>
                         </li>
                         <li class="faq__item">
@@ -699,7 +699,7 @@
                     <div class="cta__box">
                         <h2 class="cta__ttl01 bold ta-c">従業員の状況に合わせた<br class="sp-only"><strong class="big">仕事と介護の両立支援</strong>を提供する</h2>
                         <div class="cta__img01"><img src="img/cta_img01.webp" alt="Career & Kaigo"></div>
-                        <a class="cta__btn01 white bold" href="#">お問い合わせはこちら</a>
+                        <a class="cta__btn01 white bold" href="https://form.armg.jp/entr/cont/chmy-hmy-00366">お問い合わせはこちら</a>
                     </div>
 				</div>
 			</section>
