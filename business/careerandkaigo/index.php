@@ -312,7 +312,7 @@
 									<p class="fea__flex__txt bold">3つのセルフチェックの結果からくる上司向けの<br class="pc-only">コメントによって、従業員への具体的で本質的な声掛けができ、<br class="pc-only">本人の不安を軽減させることに役立ちます。</p>
 								</div>
 								<p class="fea__txt01">
-									<strong class="big bold">介護の負担感アンケート<span class="small">（独自開発）</span>とは</strong>
+									<strong class="big bold">介護の負担感<span class="small">（独自開発）</span>とは</strong>
 									介護が始まるタイミングで、直面する介護の負担を測定します。​<br>介護の負担を把握することで、今後の仕事との両立計画に役立てることができます。</p>
 								<div class="fea__img03">
 									<picture>
@@ -334,7 +334,7 @@
 									</li>
 									<li class="fea__item03">
 										<div class="fea__wrap">
-											<p class="fea__txt02 ta-c bold">こころの健康状態<span class="small">（WHO=5）</span></p>
+											<p class="fea__txt02 ta-c bold">こころの健康状態<span class="small">（WHO-5）</span></p>
 											<div class="fea__box02">
 												<div class="fea__img04"><img src="img/fea_img08.webp" alt=""></div>
 												<p class="fea__txt03">こころの健康状態を可視化し、一定の基準を下回った場合、カウンセリングを促すメールが届く。</p>
@@ -538,7 +538,7 @@
 										<p class="sol__lead02 white bold">Career&Kaigoで解決！</p>
 										<h3 class="sol__ttl02 bold">介護支援、はじめの一歩も、<br class="sp-only">次の一歩も。<br>「Career & Kaigo」で、両立支援がスムーズに始められます。</h3>
 										<p class="sol__txt01">
-                                            上司に介護の経験がなくても大丈夫。研修動画で、部下の両立を支援するために必要な知識や関わり方を事前に学べます。さらに、介護負担のアンケート結果やセルフチェック（SWING-J・WHO-5）をもとに、部下の状態に合った“声のかけ方”をアドバイス。面談や日々のフォローで、社員の安心感やモチベーション向上にもつながります。
+                                            上司に介護の経験がなくても大丈夫。研修動画で、部下の両立を支援するために必要な知識や関わり方を事前に学べます。さらに、独自開発の「介護の負担感」、SWING-J、WHO-5のセルフチェックの結果をもとに、部下の状態に合った“声のかけ方”をアドバイス。面談や日々のフォローで、社員の安心感やモチベーション向上にもつながります。
 										</p>
 									</div>
 								</li>
