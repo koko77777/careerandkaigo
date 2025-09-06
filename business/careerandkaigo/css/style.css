@@ -1191,7 +1191,8 @@ fea
     font-size: 22px;
   }
   .fea .fea__img02 {
-    margin-top: 18px;
+    width: 922px;
+    margin: 18px auto 0;
   }
   .fea .fea__ttl07 {
     position: relative;
