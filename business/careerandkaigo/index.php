@@ -157,15 +157,15 @@
 							<div class="mv__img01 pc-only"><img src="img/mv_img01.webp" alt="Career & Kaigoのイメージ"></div>
 							<div class="mv__img03">
 								<picture>
-									<source media="(max-width: 768px)" srcset="img/mv_img03_sp.webp">
-									<img src="img/mv_img03.webp" alt="東京海上日動ベターライフサービスと共同開発 健康経営銘柄の約45%ホワイト500の3割に当社サービスを提供 計483万人の従業員様を支援してきたアドバンテッジリスクマネジメントが提供">
+									<source media="(max-width: 768px)" srcset="img/mv_img03_sp.png">
+									<img src="img/mv_img03.png" alt="東京海上日動ベターライフサービスと共同開発 健康経営銘柄及びホワイト500の約3割に当社サービスを提供 計607万人の従業員様を支援してきたアドバンテッジリスクマネジメントが提供">
 								</picture>
 							</div>
 						</div>
                     </div>
                     <ul class="mv__list02">
                         <li class="mv__item02">※1  「健康経営優良法人2025」認定法人における当社のサービス提供実績より</li>
-                        <li class="mv__item02">※2  2024年3月末におけるメンタリティマネジメント事業・健康経営事業および休業者・復職者支援サービスの利用者数</li>
+                        <li class="mv__item02">※2  2025年3月末におけるメンタリティマネジメント事業・健康経営事業および休業者・復職者支援サービスの利用者数</li>
                     </ul>
                 </div>
             </section>
