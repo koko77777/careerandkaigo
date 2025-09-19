@@ -1550,6 +1550,7 @@ faq
 @media screen and (max-width: 640px) {
     .faq {
         &--bg {
+            margin-top: -5/640 * 100vw;
             padding: 100/640 * 100vw 0;
             background: #f0e9d9;
         }

@@ -1401,6 +1401,7 @@ faq
 ========================================================================== */
 @media screen and (max-width: 640px) {
   .faq--bg {
+    margin-top: -0.78125vw;
     padding: 15.625vw 0;
     background: #f0e9d9;
   }

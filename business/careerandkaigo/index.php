@@ -517,7 +517,7 @@
 										</ul>
 									</div>
 									<div class="sol__low">
-										<p class="sol__lead02 white bold">Career&Kaigoで解決！</p>
+										<p class="sol__lead02 white bold">Career & Kaigoで解決！</p>
 										<h3 class="sol__ttl02 bold">本質的な介護支援を従業員に！<br>「Career & Kaigo」で<br class="sp-only">個人の状況にあったサポートを。</h3>
 										<p class="sol__txt01">
 											<strong class="big">“いざ”という時に、社員も人事もひとりにしない。</strong>
@@ -535,7 +535,7 @@
 										</ul>
 									</div>
 									<div class="sol__low">
-										<p class="sol__lead02 white bold">Career&Kaigoで解決！</p>
+										<p class="sol__lead02 white bold">Career & Kaigoで解決！</p>
 										<h3 class="sol__ttl02 bold">介護支援、はじめの一歩も、<br class="sp-only">次の一歩も。<br>「Career & Kaigo」で、両立支援がスムーズに始められます。</h3>
 										<p class="sol__txt01">
                                             上司に介護の経験がなくても大丈夫。研修動画で、部下の両立を支援するために必要な知識や関わり方を事前に学べます。さらに、独自開発の「介護の負担感」、SWING-J、WHO-5のセルフチェックの結果をもとに、部下の状態に合った“声のかけ方”をアドバイス。面談や日々のフォローで、社員の安心感やモチベーション向上にもつながります。
@@ -552,7 +552,7 @@
 										</ul>
 									</div>
 									<div class="sol__low">
-										<p class="sol__lead02 white bold">Career&Kaigoで解決！</p>
+										<p class="sol__lead02 white bold">Career & Kaigoで解決！</p>
 										<h3 class="sol__ttl02 bold">従業員が不安を抱え込まないように。<br>「Career & Kaigo」なら、従業員が抱える不安に対して、<br class="pc-only">人事としてできる、一人ひとりに個別最適なサポートを。</h3>
 										<p class="sol__txt01">
                                             介護や将来への不安には相談窓口や研修動画を通じて、心のケアや介護の専門家にる相談対応を受けられます。さらに、「負担感セルフチェック」などで介護に関する予測をおこない、キャリアの見通しを持てるよう支援します。<br>また<a class="link blue bold" href="https://www.armg.jp/business/advantage-harmony/">HARMONY</a>と併せて利用することで両立支援制度や法律の理解をしっかりと後押しします。
@@ -605,7 +605,7 @@
 							<div class="oth__img01">
 								<picture>
 									<source media="(max-width: 768px)" srcset="img/oth_img02_sp.webp">
-									<img src="img/oth_img02.webp" alt="Career & Baby（キャリア＆ベビー）">
+									<img src="img/oth_img02.webp" alt="ADVANTAGE HARMONY">
 								</picture>
 							</div>
 							<div class="oth__box">
@@ -619,7 +619,7 @@
 							<div class="oth__img01">
 								<picture>
 									<source media="(max-width: 768px)" srcset="img/oth_img03_sp.webp">
-									<img src="img/oth_img03.webp" alt="Career & Baby（キャリア＆ベビー）">
+									<img src="img/oth_img03.webp" alt="eRework">
 								</picture>
 							</div>
 							<div class="oth__box">
@@ -640,8 +640,8 @@
                     <h2 class="flo__ttl01 bold ta-c">運用開始までのフロー</h2>
 					<div class="flo__img01">
 						<picture>
-							<source media="(max-width: 768px)" srcset="img/flo_img01_sp.webp">
-							<img src="img/flo_img01.webp" alt="運用開始までのフローのイメージ">
+							<source media="(max-width: 768px)" srcset="img/flo_img01_sp.png">
+							<img src="img/flo_img01.png" alt="運用開始までのフローのイメージ">
 						</picture>
 					</div>
 				</div>
@@ -668,7 +668,7 @@
                         <li class="faq__item">
                             <dl class="faq__dl">
                                 <dt class="faq__dt bold"><p class="txt">介護に直面した社員とは状況を把握するために定期的に面談をおこないます。<br>面談記録の管理や共有はできますか？</p></dt>
-                                <dd class="faq__dd">Career＆Kaigoには、厚生労働省『介護支援プラン策定マニュアル』を参考に作成した対応記録フォーマットを用意しており、面談内容を時系列で記録・管理できます。<br>さらに、人事・上司・産業保健スタッフ間で安全に共有できるため、支援の質と連携力が大きく向上します。</dd>
+                                <dd class="faq__dd">Career & Kaigoには、厚生労働省『介護支援プラン策定マニュアル』を参考に作成した対応記録フォーマットを用意しており、面談内容を時系列で記録・管理できます。<br>さらに、人事・上司・産業保健スタッフ間で安全に共有できるため、支援の質と連携力が大きく向上します。</dd>
                             </dl>
                         </li>
                         <li class="faq__item">
